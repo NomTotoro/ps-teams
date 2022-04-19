@@ -1,0 +1,2248 @@
+=== [gen6ubers] Untitled 314 ===
+
+Arceus-Rock @ Stone Plate  
+Ability: Multitype  
+EVs: 248 HP / 8 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Recover  
+- Calm Mind  
+- Will-O-Wisp  
+- Judgment  
+
+Gengar-Mega @ Gengarite  
+Ability: Shadow Tag  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hex  
+- Will-O-Wisp  
+- Sludge Wave  
+- Destiny Bond  
+
+Landorus-Therian @ Choice Scarf  
+Ability: Intimidate  
+EVs: 248 Atk / 64 Def / 196 Spe  
+Jolly Nature  
+- U-turn  
+- Earthquake  
+- Knock Off  
+- Sleep Talk  
+
+Groudon-Primal @ Red Orb  
+Ability: Desolate Land  
+EVs: 248 HP / 240 SpD / 20 Spe  
+Careful Nature  
+- Stealth Rock  
+- Lava Plume  
+- Precipice Blades  
+- Roar  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk / 30 SpA / 30 Spe  
+- Draco Meteor  
+- Hidden Power [Fire]  
+- Psyshock  
+- Grass Knot  
+
+Klefki @ Leftovers  
+Ability: Prankster  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Thunder Wave  
+- Heal Block  
+- Spikes  
+- Play Rough  
+
+
+=== [gen6ubers] Untitled 238 ===
+
+Diancie-Mega @ Diancite  
+Ability: Magic Bounce  
+EVs: 236 HP / 124 Def / 148 Spe  
+Bold Nature  
+- Toxic  
+- Heal Bell  
+- Moonblast  
+- Diamond Storm  
+
+Klefki @ Leftovers  
+Ability: Prankster  
+EVs: 248 HP / 44 Atk / 212 SpD / 4 Spe  
+Careful Nature  
+- Play Rough  
+- Toxic  
+- Thunder Wave  
+- Spikes  
+
+Latias @ Soul Dew  
+Ability: Levitate  
+EVs: 212 HP / 116 SpA / 180 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Grass Knot  
+- Recover  
+- Defog  
+
+Groudon-Primal @ Red Orb  
+Ability: Desolate Land  
+EVs: 168 Atk / 144 SpD / 196 Spe  
+Jolly Nature  
+- Swords Dance  
+- Stealth Rock  
+- Precipice Blades  
+- Stone Edge  
+
+Arceus-Ghost @ Spooky Plate  
+Ability: Multitype  
+EVs: 248 HP / 8 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Focus Blast  
+- Calm Mind  
+- Recover  
+
+Lugia @ Leftovers  
+Ability: Multiscale  
+EVs: 248 HP / 164 Def / 96 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Toxic  
+- Roost  
+- Whirlwind  
+
+
+=== [gen6ubers] classic ho ===
+
+Deoxys-Speed @ Rocky Helmet  
+Ability: Pressure  
+EVs: 252 HP / 4 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Taunt  
+- Stealth Rock  
+- Skill Swap  
+- Magic Coat  
+
+Xerneas @ Power Herb  
+Ability: Fairy Aura  
+EVs: 116 HP / 28 Def / 252 SpA / 112 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Geomancy  
+- Moonblast  
+- Focus Blast  
+- Thunder  
+
+Arceus @ Life Orb  
+Ability: Multitype  
+EVs: 236 HP / 252 Atk / 4 Def / 16 Spe  
+Adamant Nature  
+- Extreme Speed  
+- Earthquake  
+- Swords Dance  
+- Stone Edge  
+
+Groudon-Primal @ Red Orb  
+Ability: Desolate Land  
+EVs: 104 HP / 252 Atk / 96 SpD / 56 Spe  
+Adamant Nature  
+- Precipice Blades  
+- Rock Polish  
+- Stone Edge  
+- Swords Dance  
+
+Darkrai @ Life Orb  
+Ability: Bad Dreams  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Dark Pulse  
+- Nasty Plot  
+- Dark Void  
+- Sludge Bomb  
+
+Salamence-Mega (F) @ Salamencite  
+Ability: Aerilate  
+Happiness: 0  
+EVs: 40 HP / 252 Atk / 216 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Double-Edge  
+- Roost  
+- Earthquake  
+
+
+=== [gen6ubers] Sand + Lugia Balance ===
+
+Tyranitar @ Shuca Berry  
+Ability: Sand Stream  
+EVs: 248 HP / 92 Def / 168 SpD  
+Careful Nature  
+- Stealth Rock  
+- Pursuit  
+- Rock Slide  
+- Thunder Wave  
+
+Excadrill @ Life Orb  
+Ability: Sand Rush  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Iron Head  
+- Rapid Spin  
+- Swords Dance  
+
+Gengar @ Gengarite  
+Ability: Levitate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hex  
+- Focus Blast  
+- Protect  
+- Will-O-Wisp  
+
+Lugia @ Leftovers  
+Ability: Multiscale  
+EVs: 252 HP / 120 Def / 136 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Roost  
+- Whirlwind  
+- Toxic  
+- Ice Beam  
+
+Arceus-Water @ Splash Plate  
+Ability: Multitype  
+EVs: 252 HP / 200 Def / 56 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Recover  
+- Toxic  
+- Judgment  
+- Defog  
+
+Klefki @ Leftovers  
+Ability: Prankster  
+EVs: 248 HP / 8 Atk / 252 SpD  
+Careful Nature  
+- Spikes  
+- Thunder Wave  
+- Toxic  
+- Play Rough  
+
+
+=== [gen6ubers] Dialga + DeoA Offense ===
+
+Deoxys-Attack @ Life Orb  
+Ability: Pressure  
+EVs: 20 Atk / 252 SpA / 236 Spe  
+Rash Nature  
+- Psycho Boost  
+- Ice Beam  
+- Superpower  
+- Extreme Speed  
+
+Arceus @ Life Orb  
+Ability: Multitype  
+EVs: 128 HP / 252 Atk / 128 Spe  
+Adamant Nature  
+- Swords Dance  
+- Extreme Speed  
+- Shadow Claw  
+- Earthquake  
+
+Groudon @ Red Orb  
+Ability: Drought  
+EVs: 252 Atk / 128 SpD / 128 Spe  
+Adamant Nature  
+- Swords Dance  
+- Precipice Blades  
+- Stone Edge  
+- Rock Polish  
+
+Xerneas @ Power Herb  
+Ability: Fairy Aura  
+EVs: 208 Def / 252 SpA / 48 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Geomancy  
+- Moonblast  
+- Rest  
+- Sleep Talk  
+
+Salamence (M) @ Salamencite  
+Ability: Intimidate  
+EVs: 48 HP / 252 Atk / 208 Spe  
+Adamant Nature  
+- Double-Edge  
+- Facade  
+- Dragon Dance  
+- Roost  
+
+Dialga @ Shuca Berry  
+Ability: Pressure  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Draco Meteor  
+- Flash Cannon  
+- Thunder Wave  
+
+
+=== [gen6ubers] CM Ghostceus + Sand + DD refresh mence ===
+
+Salamence-Mega @ Salamencite  
+Ability: Intimidate  
+EVs: 136 Atk / 248 Def / 124 Spe  
+Adamant Nature  
+- Double-Edge  
+- Dragon Dance  
+- Refresh  
+- Roost  
+
+Tyranitar @ Leftovers  
+Ability: Sand Stream  
+EVs: 248 HP / 92 Def / 168 SpD  
+Careful Nature  
+- Stealth Rock  
+- Sleep Talk  
+- Stone Edge  
+- Thunder Wave  
+
+Excadrill @ Air Balloon  
+Ability: Sand Rush  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Iron Head  
+- Swords Dance  
+- Rapid Spin  
+
+Groudon-Primal @ Red Orb  
+Ability: Desolate Land  
+EVs: 104 HP / 244 Atk / 96 SpD / 64 Spe  
+Adamant Nature  
+- Precipice Blades  
+- Swords Dance  
+- Rock Polish  
+- Stone Edge  
+
+Xerneas @ Life Orb  
+Ability: Fairy Aura  
+EVs: 84 Atk / 240 SpA / 184 Spe  
+Rash Nature  
+- Moonblast  
+- Aromatherapy  
+- Close Combat  
+- Rock Slide  
+
+Arceus-Ghost @ Spooky Plate  
+Ability: Multitype  
+EVs: 248 HP / 8 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Will-O-Wisp  
+- Recover  
+- Calm Mind  
+
+
+=== [gen6ubers] RestTalk Toxic Ogre ===
+
+Kyogre @ Blue Orb  
+Ability: Drizzle  
+EVs: 120 HP / 252 SpA / 136 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Origin Pulse  
+- Toxic  
+- Rest  
+- Sleep Talk  
+
+Ho-Oh @ Choice Band  
+Ability: Regenerator  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Brave Bird  
+- Sacred Fire  
+- Earthquake  
+- Sleep Talk  
+
+Arceus-Water @ Splash Plate  
+Ability: Multitype  
+EVs: 252 HP / 132 Def / 124 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Judgment  
+- Ice Beam  
+- Will-O-Wisp  
+- Recover  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 252 HP / 252 Def / 4 SpD  
+Relaxed Nature  
+- Hex  
+- Will-O-Wisp  
+- Dragon Tail  
+- Defog  
+
+Klefki (F) @ Leftovers  
+Ability: Prankster  
+EVs: 252 HP / 4 Def / 252 SpD  
+Careful Nature  
+- Thunder Wave  
+- Toxic  
+- Play Rough  
+- Spikes  
+
+Groudon @ Red Orb  
+Ability: Drought  
+EVs: 248 HP / 248 SpD / 12 Spe  
+Careful Nature  
+- Stealth Rock  
+- Precipice Blades  
+- Stone Edge  
+- Rest  
+
+
+=== [gen6ubers] Leru's Annihilation Offense ===
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 40 HP / 252 SpA / 216 Spe  
+Modest Nature  
+IVs: 0 Atk / 30 SpA / 30 Spe  
+- Draco Meteor  
+- Psyshock  
+- Grass Knot  
+- Hidden Power [Fire]  
+
+Darkrai @ Life Orb  
+Ability: Bad Dreams  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunder  
+- Dark Pulse  
+- Nasty Plot  
+- Dark Void  
+
+Xerneas @ Power Herb  
+Ability: Fairy Aura  
+EVs: 200 Def / 252 SpA / 56 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Geomancy  
+- Moonblast  
+- Rest  
+- Sleep Talk  
+
+Groudon-Primal @ Red Orb  
+Ability: Desolate Land  
+EVs: 248 HP / 4 Atk / 196 SpD / 60 Spe  
+Careful Nature  
+- Stealth Rock  
+- Precipice Blades  
+- Stone Edge  
+- Roar  
+
+Gengar-Mega @ Gengarite  
+Ability: Shadow Tag  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Focus Blast  
+- Sludge Wave  
+- Shadow Ball  
+- Taunt  
+
+Arceus @ Life Orb  
+Ability: Multitype  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Ice Beam  
+- Swords Dance  
+- Extreme Speed  
+- Shadow Claw  
+
+
+=== [gen6ubers] Excadrill + DeoA offense ===
+
+this is the start (Excadrill) @ Focus Sash  
+Ability: Mold Breaker  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Toxic  
+- Rapid Spin  
+- Earthquake  
+
+of how it all ends (Deoxys-Attack) @ Life Orb  
+Ability: Pressure  
+EVs: 20 Atk / 252 SpA / 236 Spe  
+Rash Nature  
+- Psycho Boost  
+- Ice Beam  
+- Superpower  
+- Knock Off  
+
+shout my name (Groudon-Primal) @ Red Orb  
+Ability: Desolate Land  
+EVs: 252 Atk / 90 Def / 166 Spe  
+Adamant Nature  
+- Rock Polish  
+- Swords Dance  
+- Precipice Blades  
+- Stone Edge  
+
+whisper it (Xerneas) @ Power Herb  
+Ability: Fairy Aura  
+EVs: 200 Def / 252 SpA / 56 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Geomancy  
+- Aromatherapy  
+- Focus Blast  
+- Moonblast  
+
+red orange yellow (Salamence) @ Salamencite  
+Ability: Intimidate  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Roost  
+- Earthquake  
+- Double-Edge  
+
+flicker beat (Arceus) @ Lum Berry  
+Ability: Multitype  
+EVs: 200 HP / 192 Atk / 56 Spe  
+Adamant Nature  
+- Swords Dance  
+- Extreme Speed  
+- Stone Edge  
+- Earthquake  
+
+
+=== [gen6ubers] Gengar + Yvel ===
+
+Yveltal @ Life Orb  
+Ability: Dark Aura  
+EVs: 72 Atk / 252 SpA / 184 Spe  
+Naive Nature  
+- Dark Pulse  
+- Sucker Punch  
+- Oblivion Wing  
+- U-turn  
+
+Gengar @ Gengarite  
+Ability: Levitate  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hex  
+- Focus Blast  
+- Will-O-Wisp  
+- Protect  
+
+Groudon-Primal @ Red Orb  
+Ability: Desolate Land  
+EVs: 248 HP / 56 Def / 192 SpD / 12 Spe  
+Impish Nature  
+- Precipice Blades  
+- Lava Plume  
+- Dragon Tail  
+- Stealth Rock  
+
+Arceus-Water @ Splash Plate  
+Ability: Multitype  
+EVs: 248 HP / 200 Def / 60 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Toxic  
+- Defog  
+- Recover  
+
+Xerneas @ Power Herb  
+Ability: Fairy Aura  
+EVs: 180 HP / 28 Def / 252 SpA / 48 Spe  
+Modest Nature  
+- Moonblast  
+- Thunder  
+- Aromatherapy  
+- Geomancy  
+
+Klefki @ Leftovers  
+Ability: Prankster  
+EVs: 248 HP / 252 SpD / 8 Spe  
+Careful Nature  
+- Play Rough  
+- Thunder Wave  
+- Toxic  
+- Spikes  
+
+
+=== [gen6ubers] Dual Hex balance ===
+
+Groudon @ Red Orb  
+Ability: Drought  
+EVs: 248 HP / 208 SpD / 52 Spe  
+Careful Nature  
+- Stealth Rock  
+- Precipice Blades  
+- Rock Slide  
+- Thunder Wave  
+
+BURD IS THE WORD (Ho-Oh) @ Choice Band  
+Ability: Regenerator  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Sacred Fire  
+- Brave Bird  
+- Earthquake  
+- Sleep Talk  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 252 Def / 216 SpA / 40 Spe  
+Modest Nature  
+- Hex  
+- Toxic  
+- Defog  
+- Thunder Wave  
+
+Arceus @ Leftovers  
+Ability: Multitype  
+EVs: 200 HP / 252 Atk / 56 Spe  
+Adamant Nature  
+- Extreme Speed  
+- Shadow Claw  
+- Swords Dance  
+- Recover  
+
+Gengar @ Gengarite  
+Ability: Levitate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Protect  
+- Focus Blast  
+- Hex  
+- Will-O-Wisp  
+
+Klefki @ Leftovers  
+Ability: Prankster  
+EVs: 248 HP / 8 Atk / 252 SpD  
+Careful Nature  
+- Thunder Wave  
+- Spikes  
+- Toxic  
+- Play Rough  
+
+
+=== [gen6ubers] RP Mixed Don ===
+
+Dialga @ Shuca Berry  
+Ability: Pressure  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Draco Meteor  
+- Flash Cannon  
+- Thunder  
+
+Groudon-Primal @ Red Orb  
+Ability: Drought  
+EVs: 96 Atk / 252 SpA / 104 SpD / 56 Spe  
+Mild Nature  
+- Rock Polish  
+- Fire Blast  
+- Dragon Pulse  
+- Precipice Blades  
+
+Arceus-Ghost @ Spooky Plate  
+Ability: Multitype  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Shadow Force  
+- Brick Break  
+- Extreme Speed  
+
+Darkrai @ Life Orb  
+Ability: Bad Dreams  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dark Void  
+- Dark Pulse  
+- Thunder  
+- Nasty Plot  
+
+Salamence-Mega @ Salamencite  
+Ability: Aerilate  
+Happiness: 0  
+EVs: 80 HP / 252 Atk / 176 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Double-Edge  
+- Facade  
+- Roost  
+
+Xerneas @ Choice Scarf  
+Ability: Fairy Aura  
+EVs: 28 Def / 252 SpA / 228 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Sleep Talk  
+- Moonblast  
+
+
+=== [gen6ubers] raycouaza bo ===
+
+Rayquaza @ Life Orb  
+Ability: Air Lock  
+EVs: 212 Atk / 44 Def / 252 Spe  
+Naive Nature  
+- Draco Meteor  
+- V-create  
+- Extreme Speed  
+- Dragon Ascent  
+
+Gengar-Mega @ Gengarite  
+Ability: Shadow Tag  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hex  
+- Focus Blast  
+- Destiny Bond  
+- Protect  
+
+Arceus @ Life Orb  
+Ability: Multitype  
+EVs: 80 HP / 252 Atk / 176 Spe  
+Adamant Nature  
+- Swords Dance  
+- Extreme Speed  
+- Shadow Claw  
+- Recover  
+
+Groudon-Primal @ Red Orb  
+Ability: Desolate Land  
+EVs: 248 HP / 248 SpD / 12 Spe  
+Careful Nature  
+- Stealth Rock  
+- Thunder Wave  
+- Rock Slide  
+- Precipice Blades  
+
+Klefki @ Leftovers  
+Ability: Prankster  
+EVs: 252 HP / 96 SpA / 160 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Spikes  
+- Thunder Wave  
+- Heal Block  
+- Dazzling Gleam  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 244 Def / 252 SpA / 12 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Toxic  
+- Draco Meteor  
+- Defog  
+- Hex  
+
+
+=== [gen6ubers] SD Dragceus BO ===
+
+Yveltal @ Choice Scarf  
+Ability: Dark Aura  
+EVs: 32 HP / 4 Def / 248 SpA / 224 Spe  
+Modest Nature  
+- Foul Play  
+- Dark Pulse  
+- Oblivion Wing  
+- U-turn  
+
+Gengar @ Gengarite  
+Ability: Levitate  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Destiny Bond  
+- Sludge Wave  
+- Focus Blast  
+- Protect  
+
+Arceus-Dragon @ Draco Plate  
+Ability: Multitype  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Outrage  
+- Earthquake  
+- Extreme Speed  
+
+Groudon-Primal @ Red Orb  
+Ability: Desolate Land  
+EVs: 168 HP / 252 Atk / 88 Spe  
+Adamant Nature  
+- Stealth Rock  
+- Precipice Blades  
+- Stone Edge  
+- Dragon Tail  
+
+Klefki @ Leftovers  
+Ability: Prankster  
+EVs: 248 HP / 8 Def / 252 SpD  
+Careful Nature  
+- Thunder Wave  
+- Toxic  
+- Play Rough  
+- Spikes  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 40 HP / 252 SpA / 216 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Magic Coat  
+- Calm Mind  
+- Draco Meteor  
+- Psyshock  
+
+
+=== [gen6ubers] a different stall ===
+
+Diancie @ Diancite  
+Ability: Clear Body  
+EVs: 248 HP / 56 SpA / 204 Spe  
+Modest Nature  
+- Protect  
+- Heal Bell  
+- Moonblast  
+- Diamond Storm  
+
+Groudon @ Red Orb  
+Ability: Drought  
+EVs: 248 HP / 252 SpD / 8 Spe  
+Careful Nature  
+- Stealth Rock  
+- Thunder Wave  
+- Precipice Blades  
+- Rest  
+
+Lugia @ Leftovers  
+Ability: Multiscale  
+EVs: 248 HP / 124 Def / 136 Spe  
+Bold Nature  
+- Toxic  
+- Roost  
+- Whirlwind  
+- Ice Beam  
+
+Tyranitar (M) @ Shuca Berry  
+Ability: Sand Stream  
+EVs: 252 HP / 12 Atk / 96 Def / 148 SpD  
+Sassy Nature  
+- Rest  
+- Sleep Talk  
+- Stone Edge  
+- Pursuit  
+
+Arceus-Ghost @ Spooky Plate  
+Ability: Multitype  
+EVs: 248 HP / 8 Def / 252 Spe  
+Timid Nature  
+- Will-O-Wisp  
+- Defog  
+- Recover  
+- Judgment  
+
+Amoonguss (M) @ Assault Vest  
+Ability: Regenerator  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+- Clear Smog  
+- Grass Knot  
+- Foul Play  
+- Sludge Bomb  
+
+
+=== [gen6ubers] Toxic Spikes ===
+
+Scolipede @ Focus Sash  
+Ability: Speed Boost  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Hasty Nature  
+IVs: 0 HP / 0 Def / 0 SpD  
+- Pin Missile  
+- Toxic Spikes  
+- Protect  
+- Endeavor  
+
+Gengar-Mega @ Gengarite  
+Ability: Shadow Tag  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Shadow Ball  
+- Focus Blast  
+- Destiny Bond  
+- Protect  
+
+Arceus @ Silk Scarf  
+Ability: Multitype  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Extreme Speed  
+- Shadow Claw  
+- Refresh  
+- Swords Dance  
+
+Xerneas @ Power Herb  
+Ability: Fairy Aura  
+EVs: 208 Def / 252 SpA / 48 Spe  
+Modest Nature  
+- Moonblast  
+- Focus Blast  
+- Hidden Power [Rock]  
+- Geomancy  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+- Draco Meteor  
+- Psyshock  
+- Grass Knot  
+- Hidden Power [Fire]  
+
+Groudon-Primal @ Red Orb  
+Ability: Desolate Land  
+EVs: 176 Atk / 248 SpD / 84 Spe  
+Adamant Nature  
+- Precipice Blades  
+- Dragon Tail  
+- Stone Edge  
+- Stealth Rock  
+
+
+=== [gen6ubers] Kanga ===
+
+Kangaskhan-Mega @ Kangaskhanite  
+Ability: Scrappy  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Fake Out  
+- Return  
+- Ice Punch  
+- Sucker Punch  
+
+Groudon-Primal @ Red Orb  
+Ability: Desolate Land  
+EVs: 248 HP / 252 SpD / 8 Spe  
+Sassy Nature  
+- Lava Plume  
+- Earthquake  
+- Stealth Rock  
+- Sleep Talk  
+
+Ferrothorn @ Rocky Helmet  
+Ability: Iron Barbs  
+EVs: 252 HP / 48 Def / 208 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Protect  
+- Spikes  
+- Leech Seed  
+- Gyro Ball  
+
+Darkrai @ Leftovers  
+Ability: Bad Dreams  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Dark Pulse  
+- Sludge Bomb  
+- Dark Void  
+- Substitute  
+
+Xerneas @ Power Herb  
+Ability: Fairy Aura  
+EVs: 72 HP / 252 SpA / 184 Spe  
+Timid Nature  
+- Moonblast  
+- Hidden Power [Ground]  
+- Geomancy  
+- Aromatherapy  
+
+Arceus-Ground @ Earth Plate  
+Ability: Multitype  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Stone Edge  
+- Extreme Speed  
+- Swords Dance  
+
+
+=== [gen6ubers] sticky web ===
+
+Archer (Smeargle) (F) @ Focus Sash  
+Ability: Own Tempo  
+EVs: 252 Def / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sticky Web  
+- Nuzzle  
+- Rapid Spin  
+- Taunt  
+
+SantaK (Groudon) @ Red Orb  
+Ability: Drought  
+EVs: 64 HP / 252 Atk / 192 Spe  
+Adamant Nature  
+IVs: 0 SpA  
+- Swords Dance  
+- Dragon Claw  
+- Fire Punch  
+- Precipice Blades  
+
+Panure (Dialga) @ Lum Berry  
+Ability: Pressure  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Flash Cannon  
+- Stealth Rock  
+- Thunder Wave  
+
+Dlanyer (Darkrai) @ Life Orb  
+Ability: Bad Dreams  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dark Void  
+- Nasty Plot  
+- Dark Pulse  
+- Sludge Bomb  
+
+Earth (Salamence-Mega) @ Salamencite  
+Ability: Aerilate  
+EVs: 40 HP / 252 Atk / 212 Spe  
+Adamant Nature  
+- Double-Edge  
+- Dragon Dance  
+- Earthquake  
+- Roost  
+
+DavidTheMaster (Arceus) @ Life Orb  
+Ability: Multitype  
+EVs: 240 HP / 252 Atk / 16 Spe  
+Adamant Nature  
+- Swords Dance  
+- Extreme Speed  
+- Stone Edge  
+- Earthquake  
+
+
+=== [gen6ubers] skymin :3 ===
+
+OP Bird (Ho-Oh) @ Choice Band  
+Ability: Regenerator  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Brave Bird  
+- Sacred Fire  
+- Earthquake  
+- Sleep Talk  
+
+Lord Outrage (Giratina-Origin) @ Griseous Orb  
+Ability: Levitate  
+EVs: 248 HP / 252 Def / 8 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Shadow Ball  
+- Toxic  
+- Defog  
+- Draco Meteor  
+
+deserve S+ (Arceus-Water) @ Splash Plate  
+Ability: Multitype  
+EVs: 248 HP / 136 Def / 124 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Judgment  
+- Ice Beam  
+- Toxic  
+- Recover  
+
+El Don (Groudon) @ Red Orb  
+Ability: Drought  
+EVs: 248 HP / 8 Def / 252 SpD  
+Sassy Nature  
+- Precipice Blades  
+- Lava Plume  
+- Stealth Rock  
+- Thunder Wave  
+
+Klefshit (Klefki) (F) @ Leftovers  
+Ability: Prankster  
+EVs: 252 HP / 4 Def / 252 SpD  
+Sassy Nature  
+- Thunder Wave  
+- Toxic  
+- Reflect  
+- Play Rough  
+
+Haxmin-Sky (Shaymin-Sky) @ Leftovers  
+Ability: Serene Grace  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Substitute  
+- Air Slash  
+- Seed Flare  
+- Aromatherapy  
+
+
+=== [gen6ubers] winter is coming ===
+
+Nuke (Kyurem-White) @ Choice Specs  
+Ability: Turboblaze  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Ice Beam  
+- Fusion Flare  
+- Ancient Power  
+
+Uncompetitive (Gengar-Mega) (F) @ Gengarite  
+Ability: Shadow Tag  
+EVs: 248 HP / 8 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Perish Song  
+- Substitute  
+- Protect  
+- Destiny Bond  
+
+Big Bird (Ho-Oh) @ Life Orb  
+Ability: Regenerator  
+EVs: 248 HP / 196 Atk / 52 SpD / 12 Spe  
+Adamant Nature  
+- Sacred Fire  
+- Brave Bird  
+- Thunder Wave  
+- Roost  
+
+Fertile (Arceus-Ground) @ Earth Plate  
+Ability: Multitype  
+EVs: 248 HP / 4 Def / 4 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Ice Beam  
+- Defog  
+- Recover  
+
+BlazingDark (Groudon-Primal) @ Red Orb  
+Ability: Desolate Land  
+EVs: 248 HP / 244 SpD / 16 Spe  
+Careful Nature  
+- Precipice Blades  
+- Stone Edge  
+- Thunder Wave  
+- Stealth Rock  
+
+Savage (Tyranitar) @ Leftovers  
+Ability: Sand Stream  
+EVs: 248 HP / 8 Def / 252 SpD  
+Careful Nature  
+- Pursuit  
+- Low Kick  
+- Rest  
+- Sleep Talk  
+
+
+=== [gen6ubers] classic ho with REST geoxern ===
+
+Deoxys-Speed @ Rocky Helmet  
+Ability: Pressure  
+EVs: 252 HP / 4 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Taunt  
+- Stealth Rock  
+- Skill Swap  
+- Magic Coat  
+
+Xerneas @ Power Herb  
+Ability: Fairy Aura  
+EVs: 200 Def / 252 SpA / 56 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Geomancy  
+- Moonblast  
+- Rest  
+- Sleep Talk  
+
+Arceus @ Life Orb  
+Ability: Multitype  
+EVs: 236 HP / 252 Atk / 4 Def / 16 Spe  
+Adamant Nature  
+- Extreme Speed  
+- Earthquake  
+- Swords Dance  
+- Stone Edge  
+
+Groudon-Primal @ Red Orb  
+Ability: Desolate Land  
+EVs: 104 HP / 252 Atk / 96 SpD / 56 Spe  
+Adamant Nature  
+- Precipice Blades  
+- Rock Polish  
+- Stone Edge  
+- Swords Dance  
+
+Darkrai @ Life Orb  
+Ability: Bad Dreams  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Dark Pulse  
+- Nasty Plot  
+- Dark Void  
+- Sludge Bomb  
+
+Salamence-Mega (F) @ Salamencite  
+Ability: Aerilate  
+Happiness: 0  
+EVs: 40 HP / 252 Atk / 216 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Double-Edge  
+- Roost  
+- Earthquake  
+
+
+=== [gen6ubers] mega luke + deo-a (waterceus) ===
+
+Xerneas @ Power Herb  
+Ability: Fairy Aura  
+EVs: 96 HP / 104 Def / 252 SpA / 56 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Rest  
+- Sleep Talk  
+- Geomancy  
+- Moonblast  
+
+Arceus-Water @ Splash Plate  
+Ability: Multitype  
+EVs: 248 HP / 56 Def / 204 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Judgment  
+- Ice Beam  
+- Recover  
+- Toxic  
+
+Groudon-Primal @ Red Orb  
+Ability: Desolate Land  
+EVs: 248 HP / 240 SpD / 20 Spe  
+Careful Nature  
+- Stealth Rock  
+- Precipice Blades  
+- Lava Plume  
+- Roar  
+
+Deoxys-Attack @ Life Orb  
+Ability: Pressure  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Rash Nature  
+- Psycho Boost  
+- Ice Beam  
+- Extreme Speed  
+- Pursuit  
+
+Lucario-Mega @ Lucarionite  
+Ability: Justified  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Iron Tail  
+- Bullet Punch  
+- Close Combat  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 88 HP / 252 Def / 168 SpA  
+Quiet Nature  
+- Toxic  
+- Shadow Ball  
+- Defog  
+- Shadow Sneak  
+
+
+=== [gen6ubers] POHJIS ORAS CUP ===
+
+Groudon-Primal @ Red Orb  
+Ability: Desolate Land  
+EVs: 152 HP / 236 Atk / 44 SpD / 76 Spe  
+Adamant Nature  
+- Precipice Blades  
+- Dragon Claw  
+- Stealth Rock  
+- Swords Dance  
+
+Kyogre-Primal @ Blue Orb  
+Ability: Primordial Sea  
+EVs: 200 HP / 252 Atk / 56 Spe  
+Adamant Nature  
+- Waterfall  
+- Earthquake  
+- Ice Beam  
+- Thunder Wave  
+
+Klefki @ Leftovers  
+Ability: Prankster  
+EVs: 248 HP / 8 Atk / 252 SpD  
+Careful Nature  
+- Play Rough  
+- Spikes  
+- Thunder Wave  
+- Heal Block  
+
+Arceus-Water @ Splash Plate  
+Ability: Multitype  
+EVs: 248 HP / 244 Def / 16 Spe  
+Impish Nature  
+IVs: 0 Atk  
+- Judgment  
+- Ice Beam  
+- Toxic  
+- Recover  
+
+Yveltal @ Choice Scarf  
+Ability: Dark Aura  
+EVs: 32 HP / 4 Def / 248 SpA / 224 Spe  
+Modest Nature  
+- Foul Play  
+- Dark Pulse  
+- Oblivion Wing  
+- U-turn  
+
+Latias @ Soul Dew  
+Ability: Levitate  
+EVs: 208 HP / 120 SpA / 180 Spe  
+Timid Nature  
+IVs: 0 Atk / 30 SpA / 30 Spe  
+- Hidden Power [Fire]  
+- Grass Knot  
+- Draco Meteor  
+- Healing Wish  
+
+
+=== [gen6ubers] VS POHJIS 1 ===
+
+Bronzong @ Leftovers  
+Ability: Levitate  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Gyro Ball  
+- Toxic  
+- Stealth Rock  
+- Skill Swap  
+
+Ho-Oh @ Choice Band  
+Ability: Regenerator  
+EVs: 248 HP / 192 Atk / 52 SpD / 16 Spe  
+Adamant Nature  
+- Brave Bird  
+- Sacred Fire  
+- Earthquake  
+- Sleep Talk  
+
+Groudon-Primal @ Red Orb  
+Ability: Desolate Land  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Precipice Blades  
+- Stone Edge  
+- Dragon Claw  
+- Swords Dance  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 152 HP / 252 Def / 104 SpA  
+Quiet Nature  
+- Shadow Ball  
+- Shadow Sneak  
+- Toxic  
+- Defog  
+
+Gengar-Mega @ Gengarite  
+Ability: Shadow Tag  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sludge Wave  
+- Shadow Ball  
+- Destiny Bond  
+- Protect  
+
+Arceus-Ground @ Earth Plate  
+Ability: Multitype  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Stone Edge  
+- Extreme Speed  
+- Swords Dance  
+
+
+=== [gen6ubers] Untitled 431 ===
+
+Diancie-Mega @ Diancite  
+Ability: Magic Bounce  
+EVs: 80 Atk / 252 SpA / 176 Spe  
+Naive Nature  
+- Protect  
+- Moonblast  
+- Diamond Storm  
+- Stealth Rock  
+
+Arceus-Steel @ Iron Plate  
+Ability: Multitype  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Iron Head  
+- Earthquake  
+- Recover  
+
+Rayquaza @ Focus Sash  
+Ability: Air Lock  
+EVs: 252 Atk / 40 SpA / 216 Spe  
+Naive Nature  
+- Dragon Dance  
+- Dragon Ascent  
+- Draco Meteor  
+- Extreme Speed  
+
+Xerneas @ Power Herb  
+Ability: Fairy Aura  
+EVs: 192 Def / 252 SpA / 64 Spe  
+Modest Nature  
+- Geomancy  
+- Moonblast  
+- Hidden Power [Rock]  
+- Aromatherapy  
+
+Groudon-Primal @ Red Orb  
+Ability: Desolate Land  
+EVs: 252 SpA / 252 Spe  
+Hasty Nature  
+- Eruption  
+- Fire Blast  
+- Dragon Pulse  
+- Precipice Blades  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 88 HP / 252 Def / 104 SpA / 64 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hex  
+- Will-O-Wisp  
+- Toxic  
+- Defog  
+
+
+=== [gen6ubers] Untitled 423 ===
+
+Gengar-Mega @ Gengarite  
+Ability: Shadow Tag  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Destiny Bond  
+- Shadow Ball  
+- Sludge Wave  
+- Focus Blast  
+
+Arceus-Steel @ Iron Plate  
+Ability: Multitype  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Iron Head  
+- Earthquake  
+- Recover  
+
+Groudon-Primal @ Red Orb  
+Ability: Desolate Land  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+- Eruption  
+- Precipice Blades  
+- Fire Blast  
+- Stealth Rock  
+
+Rayquaza @ Focus Sash  
+Ability: Air Lock  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Naive Nature  
+- Dragon Dance  
+- Dragon Ascent  
+- Draco Meteor  
+- Extreme Speed  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 152 HP / 252 Def / 104 SpA  
+Quiet Nature  
+- Shadow Ball  
+- Shadow Sneak  
+- Toxic  
+- Defog  
+
+Xerneas @ Power Herb  
+Ability: Fairy Aura  
+EVs: 192 Def / 252 SpA / 64 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Geomancy  
+- Moonblast  
+- Rest  
+- Sleep Talk  
+
+
+=== [gen6ubers] Untitled 422 ===
+
+Xerneas @ Power Herb  
+Ability: Fairy Aura  
+EVs: 196 Def / 252 SpA / 60 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Geomancy  
+- Moonblast  
+- Rest  
+- Sleep Talk  
+
+Gengar-Mega @ Gengarite  
+Ability: Shadow Tag  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Destiny Bond  
+- Sludge Wave  
+- Shadow Ball  
+- Focus Blast  
+
+Arceus @ Lum Berry  
+Ability: Multitype  
+EVs: 180 HP / 252 Atk / 76 Spe  
+Adamant Nature  
+- Swords Dance  
+- Extreme Speed  
+- Shadow Claw  
+- Recover  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk / 30 SpA / 30 Spe  
+- Draco Meteor  
+- Psyshock  
+- Grass Knot  
+- Hidden Power [Fire]  
+
+Yveltal @ Life Orb  
+Ability: Dark Aura  
+EVs: 12 Atk / 252 SpA / 244 Spe  
+Rash Nature  
+- Dark Pulse  
+- Oblivion Wing  
+- Knock Off  
+- Sucker Punch  
+
+Groudon-Primal @ Red Orb  
+Ability: Desolate Land  
+EVs: 248 HP / 244 SpD / 16 Spe  
+Careful Nature  
+- Roar  
+- Stealth Rock  
+- Precipice Blades  
+- Stone Edge  
+
+
+=== [gen6ubers] Untitled 421 ===
+
+Bronzong @ Leftovers  
+Ability: Levitate  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Gyro Ball  
+- Toxic  
+- Stealth Rock  
+- Protect  
+
+Tyranitar @ Chople Berry  
+Ability: Sand Stream  
+EVs: 248 HP / 252 SpD / 8 Spe  
+Careful Nature  
+- Sleep Talk  
+- Thunder Wave  
+- Rock Slide  
+- Pursuit  
+
+Groudon-Primal @ Red Orb  
+Ability: Desolate Land  
+EVs: 164 HP / 252 Atk / 92 Spe  
+Lonely Nature  
+- Overheat  
+- Precipice Blades  
+- Stone Edge  
+- Dragon Tail  
+
+Arceus-Water @ Splash Plate  
+Ability: Multitype  
+EVs: 248 HP / 244 Def / 16 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Whirlpool  
+- Perish Song  
+- Toxic  
+- Recover  
+
+Lugia @ Leftovers  
+Ability: Multiscale  
+EVs: 248 HP / 124 Def / 136 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Toxic  
+- Roost  
+- Whirlwind  
+
+Latias @ Soul Dew  
+Ability: Levitate  
+EVs: 212 HP / 120 SpA / 176 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Psyshock  
+- Recover  
+- Defog  
+
+
+=== [gen6ubers] Untitled 376 ===
+
+Arceus-Rock @ Stone Plate  
+Ability: Multitype  
+EVs: 248 HP / 8 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Will-O-Wisp  
+- Recover  
+- Calm Mind  
+
+Groudon-Primal @ Red Orb  
+Ability: Desolate Land  
+EVs: 240 HP / 252 SpD / 16 Spe  
+Careful Nature  
+- Lava Plume  
+- Precipice Blades  
+- Stealth Rock  
+- Roar  
+
+Latias @ Soul Dew  
+Ability: Levitate  
+EVs: 204 HP / 116 Def / 188 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Grass Knot  
+- Recover  
+- Defog  
+
+Klefki @ Leftovers  
+Ability: Prankster  
+EVs: 248 HP / 44 Atk / 212 SpD / 4 Spe  
+Careful Nature  
+- Play Rough  
+- Toxic  
+- Thunder Wave  
+- Spikes  
+
+Salamence-Mega @ Salamencite  
+Ability: Aerilate  
+Happiness: 0  
+EVs: 248 HP / 136 Def / 124 Spe  
+Impish Nature  
+- Dragon Dance  
+- Frustration  
+- Facade  
+- Roost  
+
+Ho-Oh @ Leftovers  
+Ability: Regenerator  
+EVs: 248 HP / 176 Def / 52 SpD / 32 Spe  
+Impish Nature  
+- Sacred Fire  
+- Brave Bird  
+- Toxic  
+- Roost  
+
+
+=== [gen6ubers] durians stall ===
+
+Sableye @ Sablenite  
+Ability: Prankster  
+EVs: 248 HP / 252 SpD / 8 Spe  
+Careful Nature  
+- Fake Out  
+- Recover  
+- Will-O-Wisp  
+- Foul Play  
+
+Giratina @ Leftovers  
+Ability: Pressure  
+EVs: 248 HP / 204 Def / 56 SpD  
+Bold Nature  
+IVs: 0 Atk / 30 Spe  
+- Rest  
+- Defog  
+- Toxic  
+- Dragon Tail  
+
+Lugia @ Leftovers  
+Ability: Multiscale  
+EVs: 248 HP / 164 Def / 96 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Psychic  
+- Toxic  
+- Roost  
+- Whirlwind  
+
+Arceus @ Earth Plate  
+Ability: Multitype  
+EVs: 248 HP / 244 Def / 16 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Judgment  
+- Ice Beam  
+- Stealth Rock  
+- Recover  
+
+Ferrohtorn (Ferrothorn) @ Leftovers  
+Ability: Iron Barbs  
+EVs: 248 HP / 8 Def / 252 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Leech Seed  
+- Protect  
+- Spikes  
+- Gyro Ball  
+
+Blissey @ Shed Shell  
+Ability: Natural Cure  
+EVs: 8 HP / 252 Def / 248 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Soft-Boiled  
+- Aromatherapy  
+- Toxic  
+- Confide  
+
+
+=== [gen6ubers] anti-balance ===
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 248 HP / 8 Def / 252 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Protect  
+- Spikes  
+- Leech Seed  
+- Gyro Ball  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 248 Def / 248 SpA / 12 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Thunder Wave  
+- Hex  
+- Draco Meteor  
+- Defog  
+
+Gengar-Mega @ Gengarite  
+Ability: Shadow Tag  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Protect  
+- Will-O-Wisp  
+- Hex  
+- Focus Blast  
+
+Arceus-Water @ Splash Plate  
+Ability: Multitype  
+EVs: 248 HP / 136 Def / 124 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Judgment  
+- Ice Beam  
+- Toxic  
+- Recover  
+
+Groudon-Primal @ Red Orb  
+Ability: Desolate Land  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Precipice Blades  
+- Swords Dance  
+- Stone Edge  
+
+Ho-Oh @ Choice Band  
+Ability: Regenerator  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Sacred Fire  
+- Brave Bird  
+- Earthquake  
+- Sleep Talk  
+
+
+=== [gen6ubers] excadrill offense ===
+
+Excadrill @ Focus Sash  
+Ability: Mold Breaker  
+EVs: 252 HP / 4 Atk / 252 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Toxic  
+- Rock Tomb  
+- Rapid Spin  
+
+Gengar-Mega @ Gengarite  
+Ability: Shadow Tag  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Shadow Ball  
+- Focus Blast  
+- Destiny Bond  
+- Protect  
+
+Groudon-Primal @ Red Orb  
+Ability: Desolate Land  
+EVs: 136 HP / 200 Atk / 32 SpD / 140 Spe  
+Adamant Nature  
+- Rock Polish  
+- Swords Dance  
+- Precipice Blades  
+- Stone Edge  
+
+Arceus @ Life Orb  
+Ability: Multitype  
+EVs: 240 HP / 252 Atk / 16 Spe  
+Adamant Nature  
+- Swords Dance  
+- Extreme Speed  
+- Shadow Claw  
+- Recover  
+
+Rayquaza @ Life Orb  
+Ability: Air Lock  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Naive Nature  
+- Draco Meteor  
+- Dragon Ascent  
+- Extreme Speed  
+- V-create  
+
+Xerneas @ Power Herb  
+Ability: Fairy Aura  
+EVs: 96 HP / 104 Def / 244 SpA / 64 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Geomancy  
+- Moonblast  
+- Rest  
+- Sleep Talk  
+
+
+=== [gen6ubers] hexgar sun (hack) ===
+
+Groudon-Primal @ Red Orb  
+Ability: Desolate Land  
+EVs: 240 HP / 32 Atk / 148 SpD / 88 Spe  
+Adamant Nature  
+- Precipice Blades  
+- Rock Slide  
+- Thunder Wave  
+- Stealth Rock  
+
+Ho-Oh @ Choice Band  
+Ability: Regenerator  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Brave Bird  
+- Sacred Fire  
+- Earthquake  
+- Sleep Talk  
+
+Klefki @ Leftovers  
+Ability: Prankster  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Calm Nature  
+- Flash Cannon  
+- Thunder Wave  
+- Toxic  
+- Spikes  
+
+Arceus-Dragon @ Draco Plate  
+Ability: Multitype  
+EVs: 252 HP / 200 Def / 56 Spe  
+Bold Nature  
+- Judgment  
+- Toxic  
+- Defog  
+- Recover  
+
+Gengar @ Gengarite  
+Ability: Cursed Body  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Hex  
+- Focus Blast  
+- Will-O-Wisp  
+- Protect  
+
+Landorus-Therian @ Choice Scarf  
+Ability: Intimidate  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Stone Edge  
+- U-turn  
+- Explosion  
+
+
+=== [gen6ubers] sarah bonk ===
+
+Dialga @ Shuca Berry  
+Ability: Pressure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Draco Meteor  
+- Flash Cannon  
+- Toxic  
+
+Yveltal @ Life Orb  
+Ability: Dark Aura  
+EVs: 24 Atk / 252 SpA / 232 Spe  
+Rash Nature  
+- Dark Pulse  
+- Oblivion Wing  
+- Knock Off  
+- Sucker Punch  
+
+Groudon-Primal @ Red Orb  
+Ability: Desolate Land  
+EVs: 168 HP / 232 Atk / 32 SpD / 76 Spe  
+Adamant Nature  
+- Rock Polish  
+- Stone Edge  
+- Precipice Blades  
+- Swords Dance  
+
+Gengar-Mega @ Gengarite  
+Ability: Shadow Tag  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sludge Wave  
+- Focus Blast  
+- Protect  
+- Destiny Bond  
+
+Arceus @ Life Orb  
+Ability: Multitype  
+EVs: 128 HP / 252 Atk / 128 Spe  
+Adamant Nature  
+- Swords Dance  
+- Extreme Speed  
+- Shadow Claw  
+- Recover  
+
+Xerneas @ Power Herb  
+Ability: Fairy Aura  
+EVs: 200 Def / 252 SpA / 56 Spe  
+Modest Nature  
+- Geomancy  
+- Moonblast  
+- Aromatherapy  
+- Hidden Power [Rock]  
+
+
+=== [gen6ubers] steelceus  offense ===
+
+Darkrai @ Life Orb  
+Ability: Bad Dreams  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dark Void  
+- Dark Pulse  
+- Thunder  
+- Nasty Plot  
+
+Diancie-Mega @ Diancite  
+Ability: Magic Bounce  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Protect  
+- Moonblast  
+- Diamond Storm  
+- Toxic  
+
+Arceus-Steel @ Iron Plate  
+Ability: Multitype  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Iron Head  
+- Earthquake  
+- Recover  
+
+Groudon-Primal @ Red Orb  
+Ability: Desolate Land  
+EVs: 168 Atk / 144 SpD / 196 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Precipice Blades  
+- Stone Edge  
+- Swords Dance  
+
+Rayquaza @ Life Orb  
+Ability: Air Lock  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Naive Nature  
+- Dragon Ascent  
+- Draco Meteor  
+- V-create  
+- Extreme Speed  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 248 Def / 248 SpA / 12 Spe  
+Modest Nature  
+- Will-O-Wisp  
+- Hex  
+- Draco Meteor  
+- Shadow Sneak  
+
+
+=== [gen6ubers] absolute control ===
+
+Sableye (F) @ Sablenite  
+Ability: Prankster  
+EVs: 248 HP / 124 Def / 136 SpD  
+Impish Nature  
+- Foul Play  
+- Fake Out  
+- Will-O-Wisp  
+- Recover  
+
+Ho-Oh @ Life Orb  
+Ability: Regenerator  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Brave Bird  
+- Sacred Fire  
+- Earthquake  
+- Sleep Talk  
+
+Klefki (M) @ Leftovers  
+Ability: Prankster  
+EVs: 252 HP / 4 Def / 252 SpD  
+Careful Nature  
+- Toxic  
+- Thunder Wave  
+- Play Rough  
+- Spikes  
+
+Lugia @ Leftovers  
+Ability: Multiscale  
+EVs: 248 HP / 124 Def / 136 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Toxic  
+- Ice Beam  
+- Roost  
+- Whirlwind  
+
+Arceus-Water @ Splash Plate  
+Ability: Multitype  
+EVs: 248 HP / 244 Def / 16 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Judgment  
+- Defog  
+- Toxic  
+- Recover  
+
+Groudon @ Red Orb  
+Ability: Drought  
+EVs: 248 HP / 236 SpD / 24 Spe  
+Careful Nature  
+- Stealth Rock  
+- Precipice Blades  
+- Stone Edge  
+- Rest  
+
+
+=== [gen6ubers] gen6 HO steel ===
+
+Excadrill @ Choice Scarf  
+Ability: Mold Breaker  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Rapid Spin  
+- Iron Head  
+- Rock Slide  
+
+Doublade @ Eviolite  
+Ability: No Guard  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Shadow Sneak  
+- Iron Head  
+- Sacred Sword  
+- Swords Dance  
+
+Lucario @ Life Orb  
+Ability: Inner Focus  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Extreme Speed  
+- Stone Edge  
+- Close Combat  
+- Swords Dance  
+
+Scizor-Mega @ Scizorite  
+Ability: Technician  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Bug Bite  
+- Bullet Punch  
+- Swords Dance  
+- Superpower  
+
+Skarmory @ Custap Berry  
+Ability: Sturdy  
+EVs: 4 HP / 252 Atk / 252 Spe  
+- Brave Bird  
+- Spikes  
+- Taunt  
+- Stealth Rock  
+
+Heatran @ Air Balloon  
+Ability: Flash Fire  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk / 30 Def  
+- Magma Storm  
+- Taunt  
+- Earth Power  
+- Hidden Power [Ice]  
+
+
+=== [gen6ubers] Untitled 16 ===
+
+Xerneas @ Choice Scarf  
+Ability: Fairy Aura  
+EVs: 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Sleep Talk  
+
+Groudon-Primal @ Red Orb  
+Ability: Desolate Land  
+EVs: 248 HP / 60 Def / 200 SpD  
+Relaxed Nature  
+- Stealth Rock  
+- Earthquake  
+- Thunder Wave  
+- Lava Plume  
+
+Lucario-Mega @ Lucarionite  
+Ability: Adaptability  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Close Combat  
+- Iron Tail  
+- Swords Dance  
+- Bullet Punch  
+
+Lugia @ Leftovers  
+Ability: Multiscale  
+EVs: 248 HP / 120 Def / 140 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Roost  
+- Whirlwind  
+- Toxic  
+- Ice Beam  
+
+Latias @ Soul Dew  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Defog  
+- Grass Knot  
+- Draco Meteor  
+- Healing Wish  
+
+Arceus-Ghost @ Spooky Plate  
+Ability: Multitype  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Shadow Force  
+- Extreme Speed  
+- Swords Dance  
+- Brick Break
