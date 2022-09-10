@@ -1,3 +1,4074 @@
+=== [gen8battlestadiumdoublesseries13] Copy of Untitled 279 ===
+
+Magearna @ Shuca Berry  
+Ability: Soul-Heart  
+Level: 50  
+EVs: 252 HP / 4 Def / 252 SpA  
+Quiet Nature  
+IVs: 0 Atk / 0 Spe  
+- Dazzling Gleam  
+- Flash Cannon  
+- Trick Room  
+- Protect  
+
+Amoonguss @ Coba Berry  
+Ability: Regenerator  
+Level: 50  
+EVs: 236 HP / 116 Def / 156 SpD  
+Sassy Nature  
+IVs: 0 Atk / 0 Spe  
+- Rage Powder  
+- Protect  
+- Spore  
+- Pollen Puff  
+
+Kyogre @ Assault Vest  
+Ability: Drizzle  
+Level: 50  
+EVs: 124 HP / 124 Def / 236 SpA / 4 SpD / 20 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Water Spout  
+- Origin Pulse  
+- Ice Beam  
+- Thunder  
+
+Zacian-Crowned @ Rusted Sword  
+Ability: Intrepid Sword  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Behemoth Blade  
+- Play Rough  
+- Wild Charge  
+- Protect  
+
+Yveltal @ Focus Sash  
+Ability: Dark Aura  
+Level: 50  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Tailwind  
+- Dark Pulse  
+- Oblivion Wing  
+- Taunt  
+
+Incineroar @ Eject Button  
+Ability: Intimidate  
+Level: 50  
+EVs: 236 HP / 148 Atk / 28 Def / 4 SpD / 92 Spe  
+Adamant Nature  
+- Flare Blitz  
+- Throat Chop  
+- Fake Out  
+- Parting Shot  
+
+
+=== [gen8battlestadiumdoublesseries13] Untitled 279 ===
+
+Victini @ Choice Scarf  
+Ability: Victory Star  
+Level: 50  
+EVs: 252 HP / 4 Atk / 252 Spe  
+Jolly Nature  
+- Final Gambit  
+- U-turn  
+- V-create  
+- Wild Charge  
+
+Magearna @ Safety Goggles  
+Ability: Soul-Heart  
+Level: 50  
+EVs: 252 HP / 4 Def / 252 SpA  
+Quiet Nature  
+IVs: 0 Atk / 0 Spe  
+- Dazzling Gleam  
+- Flash Cannon  
+- Trick Room  
+- Protect  
+
+Amoonguss @ Coba Berry  
+Ability: Regenerator  
+Level: 50  
+EVs: 236 HP / 116 Def / 156 SpD  
+Sassy Nature  
+IVs: 0 Atk / 0 Spe  
+- Rage Powder  
+- Protect  
+- Spore  
+- Pollen Puff  
+
+Kyogre @ Assault Vest  
+Ability: Drizzle  
+Level: 50  
+EVs: 124 HP / 124 Def / 236 SpA / 4 SpD / 20 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Water Spout  
+- Origin Pulse  
+- Ice Beam  
+- Thunder  
+
+Zacian-Crowned @ Rusted Sword  
+Ability: Intrepid Sword  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Behemoth Blade  
+- Play Rough  
+- Wild Charge  
+- Protect  
+
+Yveltal @ Focus Sash  
+Ability: Dark Aura  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Tailwind  
+- Dark Pulse  
+- Oblivion Wing  
+- Taunt  
+
+
+=== [gen8battlestadiumdoublesseries13] Yveltal bait ===
+
+Zacian-Crowned @ Rusted Sword  
+Ability: Intrepid Sword  
+Level: 50  
+Shiny: Yes  
+EVs: 28 HP / 252 Atk / 4 Def / 4 SpD / 220 Spe  
+Adamant Nature  
+- Play Rough  
+- Sacred Sword  
+- Behemoth Blade  
+- Protect  
+
+Kyogre @ Life Orb  
+Ability: Drizzle  
+Level: 50  
+EVs: 108 HP / 68 Def / 236 SpA / 4 SpD / 92 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Water Spout  
+- Ice Beam  
+- Thunder  
+- Protect  
+
+Marshadow @ Focus Sash  
+Ability: Technician  
+Level: 50  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Spectral Thief  
+- Shadow Sneak  
+- Close Combat  
+- Protect  
+
+Grimmsnarl (M) @ Light Clay  
+Ability: Prankster  
+Level: 50  
+EVs: 220 HP / 4 Atk / 116 Def / 156 SpD / 12 Spe  
+Careful Nature  
+- Spirit Break  
+- Light Screen  
+- Reflect  
+- Thunder Wave  
+
+Incineroar (M) @ Safety Goggles  
+Ability: Intimidate  
+Level: 50  
+Shiny: Yes  
+EVs: 244 HP / 4 Atk / 124 Def / 108 SpD / 28 Spe  
+Impish Nature  
+- Flare Blitz  
+- Darkest Lariat  
+- Parting Shot  
+- Fake Out  
+
+Calyrex-Shadow @ Choice Specs  
+Ability: As One (Spectrier)  
+Level: 50  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Astral Barrage  
+- Draining Kiss  
+- Psyshock  
+- Trick  
+
+
+=== [gen8battlestadiumdoublesseries13] Copy of Untitled 14 ===
+
+Palkia @ Life Orb  
+Ability: Pressure  
+Level: 50  
+EVs: 252 HP / 68 Def / 156 SpA / 4 SpD / 28 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Trick Room  
+- Spacial Rend  
+- Earth Power  
+- Protect  
+
+Calyrex-Ice @ Weakness Policy  
+Ability: As One (Glastrier)  
+Level: 50  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Brave Nature  
+- Glacial Lance  
+- Seed Bomb  
+- Trick Room  
+- Protect  
+
+Rillaboom @ Choice Band  
+Ability: Grassy Surge  
+Level: 50  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Grassy Glide  
+- High Horsepower  
+- Fake Out  
+- U-turn  
+
+Kyogre @ Assault Vest  
+Ability: Drizzle  
+Level: 50  
+EVs: 32 HP / 56 Def / 252 SpA / 168 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Origin Pulse  
+- Water Spout  
+- Ice Beam  
+- Thunder  
+
+Magearna @ Shuca Berry  
+Ability: Soul-Heart  
+Level: 50  
+EVs: 200 HP / 116 Def / 192 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Fleur Cannon  
+- Thunderbolt  
+- Flash Cannon  
+- Protect  
+
+Umbreon @ Leftovers  
+Ability: Inner Focus  
+Level: 50  
+EVs: 212 HP / 180 Def / 76 SpD / 40 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Wish  
+- Yawn  
+- Foul Play  
+- Protect  
+
+
+=== [gen8battlestadiumdoublesseries13] Untitled 276 ===
+
+Calyrex-Shadow @ Focus Sash  
+Ability: As One (Spectrier)  
+Level: 50  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Astral Barrage  
+- Expanding Force  
+- Will-O-Wisp  
+- Scary Face  
+
+Kyogre @ Choice Scarf  
+Ability: Drizzle  
+Level: 50  
+EVs: 44 HP / 4 Def / 252 SpA / 4 SpD / 204 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Water Spout  
+- Origin Pulse  
+- Ice Beam  
+- Thunder  
+
+Zacian-Crowned @ Rusted Sword  
+Ability: Intrepid Sword  
+Level: 50  
+EVs: 204 HP / 108 Atk / 4 Def / 52 SpD / 140 Spe  
+Adamant Nature  
+- Protect  
+- Behemoth Blade  
+- Brick Break  
+- Play Rough  
+
+Whimsicott @ Coba Berry  
+Ability: Prankster  
+Level: 50  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Tailwind  
+- Cotton Spore  
+- Energy Ball  
+- Charm  
+
+Yveltal @ Assault Vest  
+Ability: Dark Aura  
+Level: 50  
+EVs: 172 HP / 12 Def / 84 SpA / 4 SpD / 236 Spe  
+Timid Nature  
+- Foul Play  
+- Oblivion Wing  
+- Sucker Punch  
+- Snarl  
+
+Kyurem-White @ Life Orb  
+Ability: Turboblaze  
+Level: 50  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Protect  
+- Blizzard  
+- Draco Meteor  
+- Earth Power  
+
+
+=== [gen8battlestadiumdoublesseries13] Untitled 275 ===
+
+Palkia @ Life Orb  
+Ability: Pressure  
+Level: 50  
+EVs: 252 HP / 84 Def / 156 SpA / 12 SpD / 4 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Spacial Rend  
+- Earth Power  
+- Trick Room  
+
+Magearna @ Shuca Berry  
+Ability: Soul-Heart  
+Level: 50  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk / 22 Spe  
+- Protect  
+- Dazzling Gleam  
+- Flash Cannon  
+- Energy Ball  
+
+Whimsicott @ Focus Sash  
+Ability: Prankster  
+Level: 50  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Memento  
+- Trick Room  
+- Light Screen  
+- Helping Hand  
+
+Calyrex-Ice @ Safety Goggles  
+Ability: As One (Glastrier)  
+Level: 50  
+EVs: 252 HP / 252 Atk / 4 Def  
+Adamant Nature  
+IVs: 4 Spe  
+- Glacial Lance  
+- High Horsepower  
+- Trick Room  
+- Protect  
+
+Indeedee-F (F) @ Psychic Seed  
+Ability: Psychic Surge  
+Level: 50  
+EVs: 252 HP / 140 Def / 116 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Protect  
+- Follow Me  
+- Helping Hand  
+- Expanding Force  
+
+Incineroar @ Eject Button  
+Ability: Intimidate  
+Level: 50  
+EVs: 236 HP / 148 Atk / 28 Def / 4 SpD / 92 Spe  
+Adamant Nature  
+- Flare Blitz  
+- Throat Chop  
+- Fake Out  
+- Parting Shot  
+
+
+=== [gen8vgc2022] Untitled 274 ===
+
+Golisopod @ Assault Vest  
+Ability: Emergency Exit  
+Level: 50  
+EVs: 212 HP / 196 Atk / 100 SpD  
+Adamant Nature  
+IVs: 6 Spe  
+- First Impression  
+- Leech Life  
+- Sucker Punch  
+- Drill Run  
+
+Groudon @ Life Orb  
+Ability: Drought  
+Level: 50  
+EVs: 4 HP / 236 Atk / 4 Def / 132 SpD / 132 Spe  
+Adamant Nature  
+- Thunder Punch  
+- Precipice Blades  
+- Rock Slide  
+- Protect  
+
+Incineroar @ Chople Berry  
+Ability: Intimidate  
+Level: 50  
+EVs: 252 HP / 4 Atk / 4 Def / 220 SpD / 28 Spe  
+Adamant Nature  
+- Fake Out  
+- Flare Blitz  
+- Parting Shot  
+- Protect  
+
+Kyogre @ Weakness Policy  
+Ability: Drizzle  
+Level: 50  
+EVs: 252 HP / 220 Def / 4 SpA / 12 SpD / 20 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Origin Pulse  
+- Ice Beam  
+- Thunder  
+- Protect  
+
+Tornadus (M) @ Focus Sash  
+Ability: Prankster  
+Level: 50  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Icy Wind  
+- Heat Wave  
+- Tailwind  
+- Protect  
+
+Raikou @ Sitrus Berry  
+Ability: Inner Focus  
+Level: 50  
+EVs: 188 HP / 84 Def / 4 SpA / 4 SpD / 228 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Weather Ball  
+- Snarl  
+- Thunder Wave  
+
+
+=== [gen8battlestadiumdoublesseries13] Untitled 273 ===
+
+Victini @ Choice Scarf  
+Ability: Victory Star  
+Level: 50  
+EVs: 252 HP / 4 Atk / 252 Spe  
+Jolly Nature  
+- V-create  
+- Final Gambit  
+- Wild Charge  
+- U-turn  
+
+Groudon @ Assault Vest  
+Ability: Drought  
+Level: 50  
+EVs: 252 HP / 156 Atk / 12 Def / 76 SpD / 12 Spe  
+Adamant Nature  
+- Precipice Blades  
+- Stone Edge  
+- Fire Punch  
+- Thunder Punch  
+
+Venusaur-Gmax @ Focus Sash  
+Ability: Chlorophyll  
+Level: 50  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sleep Powder  
+- Giga Drain  
+- Charm  
+- Light Screen  
+
+Magearna @ Life Orb  
+Ability: Soul-Heart  
+Level: 50  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk / 19 Spe  
+- Protect  
+- Flash Cannon  
+- Dazzling Gleam  
+- Trick Room  
+
+Yveltal @ Safety Goggles  
+Ability: Dark Aura  
+Level: 50  
+EVs: 188 HP / 68 Def / 44 SpA / 12 SpD / 196 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Snarl  
+- Foul Play  
+- Oblivion Wing  
+- Tailwind  
+
+Grimmsnarl (M) @ Light Clay  
+Ability: Prankster  
+Level: 50  
+EVs: 220 HP / 4 Atk / 156 Def / 128 SpD  
+Careful Nature  
+- Reflect  
+- Light Screen  
+- Scary Face  
+- Spirit Break  
+
+
+=== [gen8battlestadiumdoublesseries13] Untitled 272 ===
+
+Tapu Fini @ Leftovers  
+Ability: Misty Surge  
+Level: 50  
+EVs: 236 HP / 188 Def / 84 SpD  
+Relaxed Nature  
+IVs: 0 Atk / 0 Spe  
+- Nature's Madness  
+- Icy Wind  
+- Taunt  
+- Heal Pulse  
+
+Kyogre @ Assault Vest  
+Ability: Drizzle  
+Level: 50  
+EVs: 20 HP / 12 Def / 236 SpA / 156 SpD / 84 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Water Spout  
+- Origin Pulse  
+- Ice Beam  
+- Thunder  
+
+Calyrex-Ice @ Babiri Berry  
+Ability: As One (Glastrier)  
+Level: 50  
+EVs: 204 HP / 164 Atk / 140 Def  
+Brave Nature  
+- Glacial Lance  
+- High Horsepower  
+- Trick Room  
+- Protect  
+
+Magearna @ Life Orb  
+Ability: Soul-Heart  
+Level: 50  
+EVs: 236 HP / 252 SpA / 20 SpD  
+Quiet Nature  
+IVs: 0 Atk / 0 Spe  
+- Dazzling Gleam  
+- Flash Cannon  
+- Energy Ball  
+- Trick Room  
+
+Amoonguss @ Focus Sash  
+Ability: Effect Spore  
+Level: 50  
+
+Lunala  
+Ability: Shadow Shield  
+Level: 50  
+
+
+=== [gen8vgc2022] Untitled 270 ===
+
+Kyurem-White @ Life Orb  
+Ability: Turboblaze  
+Level: 50  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Blizzard  
+- Draco Meteor  
+- Earth Power  
+- Ancient Power  
+
+Ditto @ Choice Scarf  
+Ability: Imposter  
+Level: 50  
+EVs: 252 HP / 252 Def / 4 SpD  
+Relaxed Nature  
+IVs: 0 Spe  
+- Transform  
+
+Urshifu (M) @ Choice Band  
+Ability: Unseen Fist  
+Level: 50  
+Gigantamax: Yes  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Wicked Blow  
+- Close Combat  
+- Sucker Punch  
+- Poison Jab  
+
+Sableye (F) @ Iron Ball  
+Ability: Prankster  
+Level: 50  
+EVs: 252 HP / 4 Def / 252 SpD  
+Calm Nature  
+- Quash  
+- Ally Switch  
+- Fake Out  
+- Trick  
+
+Zacian-Crowned @ Rusted Sword  
+Ability: Intrepid Sword  
+Level: 50  
+EVs: 92 HP / 116 Atk / 4 Def / 44 SpD / 252 Spe  
+Jolly Nature  
+- Behemoth Blade  
+- Play Rough  
+- Sacred Sword  
+- Imprison  
+
+Shedinja @ Safety Goggles  
+Ability: Wonder Guard  
+EVs: 252 Atk / 252 Spe  
+Lonely Nature  
+IVs: 0 HP / 0 Def / 0 SpA / 0 SpD  
+- Poltergeist  
+- Ally Switch  
+- Shadow Sneak  
+- X-Scissor  
+
+
+=== [gen8ou] RAWRRRRRRRRRRRRRRRR ===
+
+Slowking-Galar @ Assault Vest  
+Ability: Regenerator  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Future Sight  
+- Sludge Bomb  
+- Flamethrower  
+- Scald  
+
+Skarmory @ Rocky Helmet  
+Ability: Sturdy  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Body Press  
+- Spikes  
+- Roar  
+- Roost  
+
+Garchomp @ Heavy-Duty Boots  
+Ability: Rough Skin  
+EVs: 252 HP / 136 SpD / 120 Spe  
+Careful Nature  
+- Roar  
+- Rest  
+- Sleep Talk  
+- Earthquake  
+
+Clefable @ Leftovers  
+Ability: Magic Guard  
+Shiny: Yes  
+EVs: 252 HP / 220 Def / 36 SpD  
+Bold Nature  
+- Heal Bell  
+- Soft-Boiled  
+- Knock Off  
+- Moonblast  
+
+Tyranitar @ Heavy-Duty Boots  
+Ability: Sand Stream  
+EVs: 252 HP / 4 Def / 252 SpD  
+Careful Nature  
+- Stealth Rock  
+- Rock Blast  
+- Roar  
+- Rest  
+
+Rotom-Wash @ Leftovers  
+Ability: Levitate  
+EVs: 252 HP / 200 SpD / 56 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Discharge  
+- Hydro Pump  
+- Nasty Plot  
+- Pain Split  
+
+
+=== [gen8ubers] Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Cop of Copy of Copy of Copy of Copy of Copy of Copy of Mission to ruin ULT for everyone ===
+
+Toxapex @ Shuca Berry  
+Ability: Regenerator  
+EVs: 244 HP / 232 Def / 32 SpD  
+Bold Nature  
+- Recover  
+- Knock Off  
+- Haze  
+- Baneful Bunker  
+
+Lunala @ Heavy-Duty Boots  
+Ability: Shadow Shield  
+EVs: 204 HP / 220 Def / 84 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Roost  
+- Will-O-Wisp  
+- Roar  
+
+Yveltal @ Heavy-Duty Boots  
+Ability: Dark Aura  
+EVs: 232 HP / 44 Def / 216 SpD / 16 Spe  
+Careful Nature  
+- Roost  
+- Foul Play  
+- Sucker Punch  
+- Defog  
+
+Zygarde @ Leftovers  
+Ability: Power Construct  
+EVs: 216 HP / 212 Def / 60 SpD / 20 Spe  
+Impish Nature  
+- Thousand Waves  
+- Coil  
+- Stone Edge  
+- Rest  
+
+Blissey @ Utility Umbrella  
+Ability: Natural Cure  
+EVs: 4 HP / 252 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Soft-Boiled  
+- Seismic Toss  
+- Heal Bell  
+- Confide  
+
+Clefable @ Sticky Barb  
+Ability: Magic Guard  
+EVs: 252 HP / 248 Def / 4 SpA / 4 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Seismic Toss  
+- Soft-Boiled  
+- Stealth Rock  
+- Moonblast  
+
+
+=== [gen8ubers] Veil + Block Xerneas ===
+
+Ninetales-Alola @ Light Clay  
+Ability: Snow Warning  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Nasty Plot  
+- Freeze-Dry  
+- Toxic  
+- Aurora Veil  
+
+Magnezone @ Air Balloon  
+Ability: Magnet Pull  
+EVs: 8 HP / 248 Def / 252 Spe  
+Timid Nature  
+- Iron Defense  
+- Body Press  
+- Magnet Rise  
+- Discharge  
+
+Xerneas @ Power Herb  
+Ability: Fairy Aura  
+EVs: 180 HP / 140 SpA / 100 SpD / 88 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Rest  
+- Geomancy  
+- Block  
+
+Yveltal @ Black Glasses  
+Ability: Dark Aura  
+EVs: 252 Atk / 72 SpD / 184 Spe  
+Adamant Nature  
+- Hone Claws  
+- Acrobatics  
+- Knock Off  
+- Sucker Punch  
+
+Blissey (F) @ Utility Umbrella  
+Ability: Natural Cure  
+EVs: 4 HP / 252 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Healing Wish  
+- Soft-Boiled  
+- Teleport  
+- Thunder Wave  
+
+Groudon @ Lum Berry  
+Ability: Drought  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Rock Polish  
+- Precipice Blades  
+- Stone Edge  
+- Swords Dance  
+
+
+=== [gen8vgc2022] Hamster ===
+
+Dialga @ Life Orb  
+Ability: Telepathy  
+EVs: 20 HP / 92 Def / 252 SpA / 4 SpD / 140 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Power Gem  
+- Flash Cannon  
+- Earth Power  
+- Roar of Time  
+
+Yveltal @ Assault Vest  
+Ability: Dark Aura  
+Level: 50  
+EVs: 252 HP / 4 Atk / 76 Def / 68 SpA / 60 SpD / 44 Spe  
+Serious Nature  
+- Snarl  
+- Sucker Punch  
+- Oblivion Wing  
+- Foul Play  
+
+Gyarados @ Charti Berry  
+Ability: Intimidate  
+EVs: 4 HP / 244 Atk / 4 Def / 4 SpD / 252 Spe  
+Adamant Nature  
+- Waterfall  
+- Power Whip  
+- Protect  
+- Stone Edge  
+
+Thundurus @ Sitrus Berry  
+Ability: Prankster  
+EVs: 252 HP / 140 Def / 4 SpA / 84 SpD / 28 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Scary Face  
+- Eerie Impulse  
+- Taunt  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 156 Def / 100 SpD  
+Relaxed Nature  
+IVs: 0 Atk / 0 Spe  
+- Body Press  
+- Iron Defense  
+- Leech Seed  
+- Protect  
+
+Landorus-Therian @ Choice Band  
+Ability: Intimidate  
+EVs: 4 HP / 212 Atk / 4 Def / 36 SpD / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Rock Slide  
+- Stone Edge  
+- U-turn  
+
+
+=== [gen8ubers] SubCM Kyogre + Defensive Zygarde Balance ===
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+EVs: 252 HP / 140 SpA / 116 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Substitute  
+- Calm Mind  
+- Thunder Wave  
+- Surf  
+
+Calyrex-Shadow @ Choice Scarf  
+Ability: As One (Spectrier)  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Astral Barrage  
+- Psyshock  
+- Trick  
+- Aromatherapy  
+
+Eternatus @ Haban Berry  
+Ability: Pressure  
+EVs: 232 HP / 252 SpD / 24 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dynamax Cannon  
+- Recover  
+- Toxic  
+- Mystical Fire  
+
+Necrozma-Dusk-Mane @ Leftovers  
+Ability: Prism Armor  
+EVs: 252 HP / 136 SpD / 120 Spe  
+Careful Nature  
+- Iron Head  
+- Morning Sun  
+- Thunder Wave  
+- Stealth Rock  
+
+Zygarde @ Leftovers  
+Ability: Power Construct  
+EVs: 204 HP / 248 Def / 56 Spe  
+Impish Nature  
+- Thousand Arrows  
+- Coil  
+- Rest  
+- Glare  
+
+Yveltal @ Heavy-Duty Boots  
+Ability: Dark Aura  
+EVs: 72 HP / 252 SpD / 184 Spe  
+Jolly Nature  
+- Defog  
+- Knock Off  
+- Roost  
+- U-turn  
+
+
+=== [gen8ubers] Ghost Spam ===
+
+Marshadow @ Life Orb  
+Ability: Technician  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Shadow Sneak  
+- Spectral Thief  
+- Close Combat  
+- Rock Tomb  
+
+Calyrex-Shadow @ Choice Scarf  
+Ability: As One (Spectrier)  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Aromatherapy  
+- Trick  
+- Psyshock  
+- Astral Barrage  
+
+Yveltal @ Heavy-Duty Boots  
+Ability: Dark Aura  
+EVs: 248 HP / 72 Def / 188 SpD  
+Careful Nature  
+- Roost  
+- U-turn  
+- Defog  
+- Knock Off  
+
+Necrozma-Dusk-Mane @ Leftovers  
+Ability: Prism Armor  
+EVs: 216 HP / 252 SpD / 40 Spe  
+Careful Nature  
+- Morning Sun  
+- Thunder Wave  
+- Stealth Rock  
+- Iron Head  
+
+Xerneas @ Air Balloon  
+Ability: Fairy Aura  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Sleep Talk  
+- Aromatherapy  
+- Moonblast  
+- Rest  
+
+Eternatus @ Heavy-Duty Boots  
+Ability: Pressure  
+EVs: 128 HP / 252 SpD / 128 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Recover  
+- Sludge Bomb  
+- Dynamax Cannon  
+- Mystical Fire  
+
+
+=== [gen8ubers] Tr Ubers 2022 ===
+
+Calyrex-Ice @ Heavy-Duty Boots  
+Ability: As One (Glastrier)  
+EVs: 252 HP / 252 Atk / 4 Def  
+Brave Nature  
+IVs: 0 Spe  
+- High Horsepower  
+- Trick Room  
+- Glacial Lance  
+- Swords Dance  
+
+Dialga @ Chople Berry  
+Ability: Pressure  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Quiet Nature  
+IVs: 0 Atk / 0 Spe  
+- Trick Room  
+- Steel Beam  
+- Stealth Rock  
+- Fire Blast  
+
+Yveltal @ Heavy-Duty Boots  
+Ability: Dark Aura  
+EVs: 56 HP / 224 Atk / 200 SpD  
+Careful Nature  
+- Sucker Punch  
+- Knock Off  
+- Roost  
+- Defog  
+
+Porygon2 @ Eviolite  
+Ability: Trace  
+EVs: 108 HP / 252 Def / 148 SpD  
+Sassy Nature  
+IVs: 0 Atk / 0 Spe  
+- Recover  
+- Shadow Ball  
+- Trick Room  
+- Teleport  
+
+Necrozma-Dusk-Mane @ Weakness Policy  
+Ability: Prism Armor  
+EVs: 252 HP / 4 Atk / 252 Def  
+Impish Nature  
+IVs: 0 Spe  
+- Sunsteel Strike  
+- Trick Room  
+- Earthquake  
+- Morning Sun  
+
+Dracovish @ Choice Band  
+Ability: Strong Jaw  
+EVs: 252 HP / 252 Atk / 4 Def  
+Brave Nature  
+IVs: 0 Spe  
+- Crunch  
+- Outrage  
+- Fishious Rend  
+- Psychic Fangs  
+
+
+=== [gen8ubers] Burn ===
+
+Yveltal @ Heavy-Duty Boots  
+Ability: Dark Aura  
+EVs: 160 Atk / 164 SpD / 184 Spe  
+Jolly Nature  
+- Hone Claws  
+- Knock Off  
+- Dual Wingbeat  
+- Sucker Punch  
+
+Ho-Oh @ Heavy-Duty Boots  
+Ability: Regenerator  
+EVs: 80 HP / 248 Def / 164 SpD / 16 Spe  
+Impish Nature  
+- Defog  
+- Thunder Wave  
+- Sacred Fire  
+- Brave Bird  
+
+Eternatus @ Heavy-Duty Boots  
+Ability: Pressure  
+EVs: 164 HP / 252 SpD / 92 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dynamax Cannon  
+- Mystical Fire  
+- Toxic  
+- Recover  
+
+Necrozma-Dusk-Mane @ Rocky Helmet  
+Ability: Prism Armor  
+EVs: 252 HP / 112 Def / 144 SpD  
+Careful Nature  
+- Thunder Wave  
+- Morning Sun  
+- Sunsteel Strike  
+- Earthquake  
+
+Calyrex-Shadow @ Choice Scarf  
+Ability: As One (Spectrier)  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Trick  
+- Astral Barrage  
+- Psyshock  
+- Nasty Plot  
+
+Landorus-Therian (M) @ Leftovers  
+Ability: Intimidate  
+EVs: 204 HP / 24 Atk / 252 Def / 16 SpD / 12 Spe  
+Impish Nature  
+- Stealth Rock  
+- U-turn  
+- Earthquake  
+- Stone Edge  
+
+
+=== [gen8ubers] Lunala+Etern(beam)+Caly(Specs) ===
+
+Lunala @ Heavy-Duty Boots  
+Ability: Shadow Shield  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Hex  
+- Will-O-Wisp  
+- Roost  
+
+Yveltal @ Heavy-Duty Boots  
+Ability: Dark Aura  
+EVs: 248 HP / 252 SpD / 8 Spe  
+Careful Nature  
+- Knock Off  
+- Roost  
+- Defog  
+- U-turn  
+
+Xerneas @ Heavy-Duty Boots  
+Ability: Fairy Aura  
+EVs: 240 HP / 252 Def / 16 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Aromatherapy  
+- Sleep Talk  
+- Rest  
+
+Necrozma-Dusk-Mane @ Leftovers  
+Ability: Prism Armor  
+EVs: 252 HP / 140 SpD / 116 Spe  
+Careful Nature  
+- Stealth Rock  
+- Iron Head  
+- Thunder Wave  
+- Morning Sun  
+
+Eternatus @ Power Herb  
+Ability: Pressure  
+EVs: 48 Def / 240 SpA / 220 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Dynamax Cannon  
+- Meteor Beam  
+- Flamethrower  
+- Recover  
+
+Calyrex-Shadow @ Choice Specs  
+Ability: As One (Spectrier)  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Astral Barrage  
+- Psyshock  
+- Nasty Plot  
+- Trick  
+
+
+=== [gen8ubers] weavile ===
+
+Weavile (M) @ Choice Band  
+Ability: Pressure  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Ice Shard  
+- Triple Axel  
+- Knock Off  
+- Beat Up  
+
+Groudon @ Leftovers  
+Ability: Drought  
+EVs: 240 HP / 108 Atk / 140 Def / 20 Spe  
+Impish Nature  
+- Swords Dance  
+- Precipice Blades  
+- Stone Edge  
+- Toxic  
+
+Yveltal @ Heavy-Duty Boots  
+Ability: Dark Aura  
+Shiny: Yes  
+EVs: 16 HP / 240 SpD / 252 Spe  
+Jolly Nature  
+- Sucker Punch  
+- Foul Play  
+- Roost  
+- Defog  
+
+Xerneas @ Air Balloon  
+Ability: Fairy Aura  
+EVs: 160 HP / 252 Def / 96 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Aromatherapy  
+- Moonblast  
+- Rest  
+- Defog  
+
+Necrozma-Dusk-Mane @ Leftovers  
+Ability: Prism Armor  
+Shiny: Yes  
+EVs: 248 HP / 252 SpD / 8 Spe  
+Careful Nature  
+- Stealth Rock  
+- Sunsteel Strike  
+- Thunder Wave  
+- Moonlight  
+
+Eternatus @ Heavy-Duty Boots  
+Ability: Pressure  
+EVs: 224 HP / 252 SpD / 32 Spe  
+Timid Nature  
+- Dynamax Cannon  
+- Flamethrower  
+- Dragon Tail  
+- Recover  
+
+
+=== [gen8ubers] weavile ===
+
+Weavile @ Choice Band  
+Ability: Pressure  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Ice Shard  
+- Triple Axel  
+- Knock Off  
+- Beat Up  
+
+Ho-Oh @ Heavy-Duty Boots  
+Ability: Regenerator  
+EVs: 248 HP / 208 Def / 52 SpD  
+Impish Nature  
+- Sacred Fire  
+- Thunder Wave  
+- Whirlwind  
+- Defog  
+
+Yveltal @ Choice Scarf  
+Ability: Dark Aura  
+EVs: 248 HP / 76 SpD / 184 Spe  
+Jolly Nature  
+- Defog  
+- Foul Play  
+- Roost  
+- U-turn  
+
+Xerneas @ Air Balloon  
+Ability: Fairy Aura  
+EVs: 72 HP / 252 Def / 184 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Aromatherapy  
+- Moonblast  
+- Rest  
+- Defog  
+
+Necrozma-Dusk-Mane @ Rocky Helmet  
+Ability: Prism Armor  
+EVs: 248 HP / 252 Def / 8 Spe  
+Impish Nature  
+- Thunder Wave  
+- Stealth Rock  
+- Moonlight  
+- Sunsteel Strike  
+
+Eternatus @ Heavy-Duty Boots  
+Ability: Pressure  
+EVs: 160 HP / 252 SpD / 96 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dynamax Cannon  
+- Mystical Fire  
+- Toxic  
+- Recover  
+
+
+=== [gen8ubers] dd zek ===
+
+Blissey (F) @ Utility Umbrella  
+Ability: Natural Cure  
+EVs: 4 HP / 252 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Teleport  
+- Soft-Boiled  
+- Seismic Toss  
+- Confide  
+
+Calyrex-Shadow @ Choice Specs  
+Ability: As One (Spectrier)  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Astral Barrage  
+- Psyshock  
+- Trick  
+- Aromatherapy  
+
+Zekrom @ Leftovers  
+Ability: Teravolt  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Dragon Claw  
+- Bolt Strike  
+- Substitute  
+
+Zygarde @ Leftovers  
+Ability: Power Construct  
+EVs: 204 HP / 248 Def / 56 Spe  
+Impish Nature  
+- Haze  
+- Thousand Waves  
+- Rest  
+- Toxic  
+
+Necrozma-Dusk-Mane @ Rocky Helmet  
+Ability: Prism Armor  
+EVs: 248 HP / 252 Def / 8 Spe  
+Impish Nature  
+- Earthquake  
+- Sunsteel Strike  
+- Moonlight  
+- Stealth Rock  
+
+Yveltal @ Heavy-Duty Boots  
+Ability: Dark Aura  
+EVs: 16 HP / 240 SpD / 252 Spe  
+Jolly Nature  
+- Foul Play  
+- Sucker Punch  
+- Defog  
+- Roost  
+
+
+=== [gen8vgc2022] Untitled 257 ===
+
+Palkia @ Lustrous Orb  
+Ability: Pressure  
+Level: 50  
+EVs: 252 HP / 84 Def / 156 SpA / 12 SpD / 4 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Spacial Rend  
+- Earth Power  
+- Trick Room  
+
+Rillaboom (M) @ Assault Vest  
+Ability: Grassy Surge  
+Level: 50  
+Gigantamax: Yes  
+EVs: 244 HP / 196 Atk / 4 Def / 60 SpD / 4 Spe  
+Adamant Nature  
+- Fake Out  
+- Grassy Glide  
+- Knock Off  
+- U-turn  
+
+Gothitelle @ Focus Sash  
+Ability: Shadow Tag  
+Level: 50  
+EVs: 252 HP / 4 Def / 252 Spe  
+Jolly Nature  
+- Fake Out  
+- Hypnosis  
+- Ally Switch  
+- Helping Hand  
+
+Regieleki @ Life Orb  
+Ability: Transistor  
+Level: 50  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Rising Voltage  
+- Electroweb  
+- Volt Switch  
+- Protect  
+
+Incineroar @ Eject Button  
+Ability: Intimidate  
+Level: 50  
+EVs: 236 HP / 148 Atk / 28 Def / 4 SpD / 92 Spe  
+Adamant Nature  
+- Flare Blitz  
+- Throat Chop  
+- Fake Out  
+- Parting Shot  
+
+Calyrex-Ice @ White Herb  
+Ability: As One (Glastrier)  
+Level: 50  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Glacial Lance  
+- High Horsepower  
+- Trick Room  
+- Protect  
+
+
+=== [gen8vgc2022] Mienshao ===
+
+Calyrex-Shadow @ Choice Scarf  
+Ability: As One (Spectrier)  
+Level: 50  
+EVs: 188 Def / 116 SpA / 204 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Astral Barrage  
+- Mud Shot  
+- Leaf Storm  
+- Protect  
+
+Zacian-Crowned @ Rusted Sword  
+Ability: Intrepid Sword  
+Level: 50  
+EVs: 108 HP / 180 Atk / 4 Def / 4 SpD / 212 Spe  
+Adamant Nature  
+- Behemoth Blade  
+- Sacred Sword  
+- Quick Attack  
+- Protect  
+
+Mienshao @ Focus Sash  
+Ability: Inner Focus  
+Level: 50  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Close Combat  
+- Ally Switch  
+- Wide Guard  
+- Fake Out  
+
+Incineroar @ Shuca Berry  
+Ability: Intimidate  
+Level: 50  
+EVs: 244 HP / 12 Atk / 52 Def / 156 SpD / 44 Spe  
+Careful Nature  
+- Flare Blitz  
+- Darkest Lariat  
+- Fake Out  
+- Parting Shot  
+
+Zapdos @ Life Orb  
+Ability: Static  
+Level: 50  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Hurricane  
+- Heat Wave  
+- Protect  
+
+Gastrodon @ Leftovers  
+Ability: Storm Drain  
+Level: 50  
+EVs: 108 HP / 204 Def / 4 SpA / 188 SpD / 4 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Earth Power  
+- Ice Beam  
+- Yawn  
+- Protect  
+
+
+=== [gen8vgc2022] Tabu_24's Penguin Fundraiser Cup Champion Team ===
+
+Calyrex-Shadow @ Focus Sash  
+Ability: As One (Spectrier)  
+Level: 50  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Protect  
+- Psyshock  
+- Astral Barrage  
+- Will-O-Wisp  
+
+Zacian-Crowned @ Rusted Sword  
+Ability: Intrepid Sword  
+Level: 50  
+EVs: 244 HP / 76 Atk / 4 Def / 12 SpD / 172 Spe  
+Adamant Nature  
+- Behemoth Blade  
+- Sacred Sword  
+- Substitute  
+- Protect  
+
+Thundurus (M) @ Assault Vest  
+Ability: Defiant  
+Level: 50  
+EVs: 84 HP / 164 Atk / 4 Def / 4 SpD / 252 Spe  
+Jolly Nature  
+- Wild Charge  
+- Flash Cannon  
+- Brick Break  
+- Crunch  
+
+Incineroar @ Sitrus Berry  
+Ability: Intimidate  
+Level: 50  
+EVs: 236 HP / 4 Atk / 76 Def / 108 SpD / 84 Spe  
+Careful Nature  
+- Flare Blitz  
+- Taunt  
+- Fake Out  
+- Parting Shot  
+
+Rillaboom-Gmax @ Miracle Seed  
+Ability: Grassy Surge  
+Level: 50  
+EVs: 236 HP / 116 Atk / 4 Def / 148 SpD / 4 Spe  
+Adamant Nature  
+- Fake Out  
+- U-turn  
+- Wood Hammer  
+- Grassy Glide  
+
+Gastrodon @ Leftovers  
+Ability: Storm Drain  
+Level: 50  
+EVs: 172 HP / 100 Def / 140 SpA / 92 SpD / 4 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Earth Power  
+- Yawn  
+- Protect  
+
+
+=== [gen8vgc2022] HardFreaQ's Calyrex-Ice Xerneas ===
+
+Xerneas @ Life Orb  
+Ability: Fairy Aura  
+Level: 50  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Dazzling Gleam  
+- Misty Explosion  
+- Protect  
+
+Calyrex-Ice @ Weakness Policy  
+Ability: As One (Glastrier)  
+Level: 50  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Glacial Lance  
+- High Horsepower  
+- Close Combat  
+- Solar Blade  
+
+Whimsicott @ Mental Herb  
+Ability: Prankster  
+Level: 50  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Naive Nature  
+IVs: 26 HP / 0 Atk / 0 SpD  
+- Moonblast  
+- Helping Hand  
+- Tailwind  
+- Protect  
+
+Oranguru @ Choice Band  
+Ability: Symbiosis  
+Level: 50  
+EVs: 68 HP / 252 Def / 4 SpA / 4 SpD / 180 Spe  
+Timid Nature  
+- Brutal Swing  
+- Psychic  
+- Ally Switch  
+- Trick Room  
+
+Dusclops @ Eviolite  
+Ability: Frisk  
+Level: 50  
+EVs: 236 HP / 108 Def / 164 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Night Shade  
+- Shadow Sneak  
+- Taunt  
+- Trick Room  
+
+Hatterene-Gmax (F) @ Focus Sash  
+Ability: Magic Bounce  
+Level: 50  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Quiet Nature  
+IVs: 0 Atk  
+- Misty Explosion  
+- Expanding Force  
+- Mystical Fire  
+- Trick Room  
+
+
+=== [gen8vgc2022] BlazeOkami's EUIC Calyrex-Ice Palkia ===
+
+Calyrex-Ice @ Babiri Berry  
+Ability: As One (Glastrier)  
+Level: 50  
+EVs: 252 HP / 252 Atk / 4 Def  
+Adamant Nature  
+IVs: 0 Spe  
+- Glacial Lance  
+- High Horsepower  
+- Swords Dance  
+- Protect  
+
+Palkia @ Life Orb  
+Ability: Pressure  
+Level: 50  
+EVs: 252 HP / 236 SpA / 20 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Spacial Rend  
+- Earth Power  
+- Trick Room  
+
+Pheromosa @ Focus Sash  
+Ability: Beast Boost  
+Level: 50  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Close Combat  
+- Speed Swap  
+- Feint  
+- Protect  
+
+Amoonguss @ Coba Berry  
+Ability: Regenerator  
+Level: 50  
+EVs: 252 HP / 180 Def / 76 SpD  
+Calm Nature  
+IVs: 0 Atk / 27 Spe  
+- Pollen Puff  
+- Spore  
+- Rage Powder  
+- Protect  
+
+Incineroar @ Shuca Berry  
+Ability: Intimidate  
+Level: 50  
+EVs: 236 HP / 236 SpD / 36 Spe  
+Careful Nature  
+- Flare Blitz  
+- Darkest Lariat  
+- Parting Shot  
+- Fake Out  
+
+Oranguru @ Mental Herb  
+Ability: Inner Focus  
+Level: 50  
+EVs: 252 HP / 180 Def / 76 SpD  
+Sassy Nature  
+IVs: 0 Atk / 0 Spe  
+- Foul Play  
+- Taunt  
+- Ally Switch  
+- Trick Room  
+
+
+=== [gen8vgc2022] dodoriosiriru's Eternatus Calyrex-Ice for Japan Nationals ===
+
+Calyrex-Ice @ Focus Sash  
+Ability: As One (Glastrier)  
+Level: 50  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Glacial Lance  
+- High Horsepower  
+- Speed Swap  
+- Protect  
+
+Incineroar @ Sitrus Berry  
+Ability: Intimidate  
+Level: 50  
+EVs: 252 HP / 76 Def / 180 SpD  
+Careful Nature  
+IVs: 27 Spe  
+- Flare Blitz  
+- Snarl  
+- Parting Shot  
+- Fake Out  
+
+Charizard-Gmax @ Charti Berry  
+Ability: Solar Power  
+Level: 50  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Blast Burn  
+- Hurricane  
+- Scorching Sands  
+- Helping Hand  
+
+Eternatus @ Life Orb  
+Ability: Pressure  
+Level: 50  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Dynamax Cannon  
+- Sludge Bomb  
+- Flamethrower  
+- Protect  
+
+Regieleki @ Assault Vest  
+Ability: Transistor  
+Level: 50  
+EVs: 28 HP / 60 Def / 164 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+- Rising Voltage  
+- Electroweb  
+- Hyper Beam  
+- Assurance  
+
+Whimsicott @ Babiri Berry  
+Ability: Prankster  
+Level: 50  
+EVs: 252 HP / 236 Def / 20 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Endeavor  
+- Tailwind  
+- Fake Tears  
+- Sunny Day  
+
+
+=== [gen8vgc2022] Chirayu Gupta's Top 8 Milwaukee Team ===
+
+Zacian @ Rusted Sword  
+Ability: Intrepid Sword  
+Level: 50  
+EVs: 132 HP / 252 Atk / 124 Spe  
+Adamant Nature  
+- Iron Head  
+- Brick Break  
+- Play Rough  
+- Protect  
+
+Venusaur-Gmax @ Life Orb  
+Ability: Chlorophyll  
+Level: 50  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Leaf Storm  
+- Earth Power  
+- Weather Ball  
+- Protect  
+
+Reshiram @ Assault Vest  
+Ability: Turboblaze  
+Level: 50  
+EVs: 196 HP / 252 SpA / 60 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Blue Flare  
+- Earth Power  
+- Draco Meteor  
+- Ancient Power  
+
+Landorus-Therian (M) @ White Herb  
+Ability: Intimidate  
+Level: 50  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Slide  
+- Fly  
+- Protect  
+
+Sableye @ Focus Sash  
+Ability: Prankster  
+Level: 50  
+EVs: 252 HP / 124 Def / 132 SpD  
+Careful Nature  
+IVs: 0 Atk / 0 Spe  
+- Will-O-Wisp  
+- Foul Play  
+- Quash  
+- Sunny Day  
+
+Thundurus (M) @ Safety Goggles  
+Ability: Prankster  
+Level: 50  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Eerie Impulse  
+- Taunt  
+- Thunderbolt  
+- Electroweb  
+
+
+=== [gen8vgc2022] 2022 Japan Nationals Top 16 ===
+
+Reshiram @ Assault Vest  
+Ability: Turboblaze  
+Level: 50  
+Modest Nature  
+- Blue Flare  
+- Draco Meteor  
+- Earth Power  
+- Ancient Power  
+
+Calyrex-Ice @ Weakness Policy  
+Ability: As One (Glastrier)  
+Level: 50  
+Adamant Nature  
+- Glacial Lance  
+- High Horsepower  
+- Trick Room  
+- Protect  
+
+Regieleki @ Life Orb  
+Ability: Transistor  
+Level: 50  
+Modest Nature  
+- Rising Voltage  
+- Electroweb  
+- Thunderbolt  
+- Protect  
+
+Grimmsnarl @ Light Clay  
+Ability: Prankster  
+Level: 50  
+Careful Nature  
+- Spirit Break  
+- Reflect  
+- Light Screen  
+- Fake Out  
+
+Porygon2 @ Eviolite  
+Ability: Trace  
+Level: 50  
+Relaxed Nature  
+- Foul Play  
+- Eerie Impulse  
+- Recover  
+- Trick Room  
+
+Amoonguss @ Focus Sash  
+Ability: Regenerator  
+Level: 50  
+Relaxed Nature  
+- Hex  
+- Spore  
+- Rage Powder  
+- Protect  
+
+
+=== [gen8vgc2022] 1st place Rose Tower June challenge ===
+
+Calyrex-Ice @ Weakness Policy  
+Ability: As One (Glastrier)  
+Level: 50  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Brave Nature  
+- Glacial Lance  
+- High Horsepower  
+- Trick Room  
+- Protect  
+
+Reshiram @ Life Orb  
+Ability: Turboblaze  
+Level: 50  
+EVs: 108 HP / 28 Def / 236 SpA / 4 SpD / 132 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Blue Flare  
+- Earth Power  
+- Ancient Power  
+
+Porygon2 @ Eviolite  
+Ability: Trace  
+Level: 50  
+EVs: 228 HP / 84 Def / 196 SpD  
+Sassy Nature  
+IVs: 0 Atk / 2 Spe  
+- Foul Play  
+- Recover  
+- Eerie Impulse  
+- Trick Room  
+
+Rillaboom-Gmax @ Assault Vest  
+Ability: Grassy Surge  
+Level: 50  
+EVs: 188 HP / 196 Atk / 4 Def / 116 SpD  
+Adamant Nature  
+IVs: 27 Spe  
+- Grassy Glide  
+- Fake Out  
+- High Horsepower  
+- U-turn  
+
+Incineroar @ Shuca Berry  
+Ability: Intimidate  
+Level: 50  
+EVs: 252 HP / 100 Def / 156 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Parting Shot  
+- Fake Out  
+- Flare Blitz  
+- Throat Chop  
+
+Amoonguss @ Focus Sash  
+Ability: Regenerator  
+Level: 50  
+Shiny: Yes  
+EVs: 228 HP / 172 Def / 108 SpD  
+Sassy Nature  
+IVs: 0 Atk / 0 Spe  
+- Spore  
+- Rage Powder  
+- Pollen Puff  
+- Protect  
+
+
+=== [gen8vgc2022] tikichase's Top 64 Palkia Calyrex-Ice for NAIC ===
+
+Tapu Fini @ Room Service  
+Ability: Misty Surge  
+Level: 50  
+EVs: 252 HP / 228 Def / 28 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Nature's Madness  
+- Taunt  
+- Protect  
+
+Incineroar @ Focus Sash  
+Ability: Intimidate  
+Level: 50  
+EVs: 196 HP / 60 Def / 252 Spe  
+Jolly Nature  
+- Flare Blitz  
+- Throat Chop  
+- Fake Out  
+- Parting Shot  
+
+Palkia @ Life Orb  
+Ability: Pressure  
+Level: 50  
+EVs: 188 HP / 172 Def / 132 SpA / 4 SpD / 12 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Spacial Rend  
+- Hydro Pump  
+- Flamethrower  
+- Trick Room  
+
+Calyrex-Ice @ Babiri Berry  
+Ability: As One (Glastrier)  
+Level: 50  
+EVs: 252 HP / 116 Atk / 12 Def / 108 SpD / 20 Spe  
+Adamant Nature  
+- Glacial Lance  
+- High Horsepower  
+- Protect  
+- Trick Room  
+
+Porygon2 @ Eviolite  
+Ability: Analytic  
+Level: 50  
+EVs: 252 HP / 132 Def / 124 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Recover  
+- Eerie Impulse  
+- Foul Play  
+- Trick Room  
+
+Amoonguss @ Quick Claw  
+Ability: Regenerator  
+Level: 50  
+EVs: 236 HP / 116 Def / 156 SpD  
+Sassy Nature  
+IVs: 0 Atk  
+- Spore  
+- Rage Powder  
+- Pollen Puff  
+- Substitute  
+
+
+=== [gen8vgc2022] 2nd Place Indy Regionals ===
+
+Calyrex-Ice @ Weakness Policy  
+Ability: As One (Glastrier)  
+Level: 50  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+IVs: 10 Spe  
+- Glacial Lance  
+- High Horsepower  
+- Trick Room  
+- Protect  
+
+Porygon2 @ Eviolite  
+Ability: Analytic  
+Level: 50  
+EVs: 244 HP / 164 Def / 100 SpD  
+Sassy Nature  
+IVs: 0 Atk / 3 Spe  
+- Foul Play  
+- Eerie Impulse  
+- Trick Room  
+- Recover  
+
+Regieleki @ Life Orb  
+Ability: Transistor  
+Level: 50  
+EVs: 124 HP / 12 Def / 252 SpA / 4 SpD / 116 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Rising Voltage  
+- Volt Switch  
+- Hyper Beam  
+- Protect  
+
+Incineroar @ Shuca Berry  
+Ability: Intimidate  
+Level: 50  
+EVs: 244 HP / 124 Def / 140 SpD  
+Relaxed Nature  
+IVs: 0 Spe  
+- Flare Blitz  
+- Throat Chop  
+- Parting Shot  
+- Fake Out  
+
+Reshiram @ Assault Vest  
+Ability: Turboblaze  
+Level: 50  
+EVs: 252 HP / 4 Def / 252 SpA  
+Modest Nature  
+IVs: 0 Atk / 5 Spe  
+- Blue Flare  
+- Draco Meteor  
+- Earth Power  
+- Solar Beam  
+
+Tapu Fini @ Leftovers  
+Ability: Misty Surge  
+Level: 50  
+EVs: 244 HP / 228 Def / 36 SpD  
+Calm Nature  
+IVs: 0 Atk / 29 Spe  
+- Nature's Madness  
+- Moonblast  
+- Heal Pulse  
+- Mist  
+
+
+=== [gen8vgc2022] Untitled 246 ===
+
+Calyrex-Shadow @ Focus Sash  
+Ability: As One (Spectrier)  
+Level: 50  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Astral Barrage  
+- Will-O-Wisp  
+- Psyshock  
+- Protect  
+
+Groudon @ Sitrus Berry  
+Ability: Drought  
+Level: 50  
+EVs: 244 HP / 28 Atk / 4 Def / 132 SpD / 100 Spe  
+Adamant Nature  
+- Precipice Blades  
+- Rock Slide  
+- Swords Dance  
+- Protect  
+
+Venusaur-Gmax @ Weakness Policy  
+Ability: Chlorophyll  
+Level: 50  
+EVs: 132 HP / 44 Def / 76 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Leaf Storm  
+- Weather Ball  
+- Earth Power  
+- Sleep Powder  
+
+Charizard-Gmax @ Assault Vest  
+Ability: Solar Power  
+Level: 50  
+EVs: 44 HP / 52 Def / 156 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Heat Wave  
+- Air Slash  
+- Ancient Power  
+- Scorching Sands  
+
+Grimmsnarl (M) @ Light Clay  
+Ability: Prankster  
+Level: 50  
+EVs: 252 HP / 4 Atk / 60 Def / 156 SpD / 36 Spe  
+Careful Nature  
+- Spirit Break  
+- Light Screen  
+- Reflect  
+- Scary Face  
+
+Incineroar @ Safety Goggles  
+Ability: Intimidate  
+Level: 50  
+EVs: 244 HP / 4 Atk / 164 Def / 60 SpD / 36 Spe  
+Impish Nature  
+- Flare Blitz  
+- Taunt  
+- Fake Out  
+- Parting Shot  
+
+
+=== [gen8vgc2022] 2022 Japan Nationals Top 32 ===
+
+Ho-Oh @ Weakness Policy  
+Ability: Regenerator  
+Level: 50  
+EVs: 124 HP / 236 Atk / 12 Def / 12 SpD / 124 Spe  
+Adamant Nature  
+- Sacred Fire  
+- Earthquake  
+- Brave Bird  
+- Protect  
+
+Grimmsnarl (M) @ Light Clay  
+Ability: Prankster  
+Level: 50  
+EVs: 244 HP / 68 Def / 196 SpD  
+Careful Nature  
+- Light Screen  
+- Reflect  
+- Thunder Wave  
+- Spirit Break  
+
+Dragapult @ Focus Sash  
+Ability: Clear Body  
+Level: 50  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Surf  
+- Will-O-Wisp  
+- Ally Switch  
+- Phantom Force  
+
+Groudon @ Assault Vest  
+Ability: Drought  
+Level: 50  
+EVs: 236 HP / 252 Atk / 4 Def / 12 SpD  
+Brave Nature  
+- Precipice Blades  
+- Heat Crash  
+- Shadow Claw  
+- Rock Slide  
+
+Gastrodon @ Leftovers  
+Ability: Storm Drain  
+Level: 50  
+EVs: 252 HP / 188 Def / 68 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Earth Power  
+- Ice Beam  
+- Yawn  
+- Protect  
+
+Porygon2 @ Eviolite  
+Ability: Trace  
+Level: 50  
+EVs: 244 HP / 148 Def / 116 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Foul Play  
+- Ice Beam  
+- Trick Room  
+- Recover  
+
+
+=== [gen8vgc2022] Zac Ogre + Sun + AV Lando ===
+
+Tornadus @ Focus Sash  
+Ability: Prankster  
+EVs: 36 HP / 4 Def / 212 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Protect  
+- Icy Wind  
+- Hurricane  
+- Tailwind  
+
+カイオーガ (Kyogre) @ Wave Incense  
+Ability: Drizzle  
+Shiny: Yes  
+EVs: 28 HP / 12 Def / 236 SpA / 4 SpD / 228 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Protect  
+- Ice Beam  
+- Origin Pulse  
+- Water Spout  
+
+Zacian-Crowned @ Rusted Sword  
+Ability: Intrepid Sword  
+Shiny: Yes  
+EVs: 108 HP / 164 Atk / 4 Def / 4 SpD / 228 Spe  
+Adamant Nature  
+- Behemoth Blade  
+- Sacred Sword  
+- Protect  
+- Substitute  
+
+Venusaur-Gmax (M) @ Life Orb  
+Ability: Chlorophyll  
+EVs: 28 HP / 4 Def / 212 SpA / 12 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Earth Power  
+- Weather Ball  
+- Leaf Storm  
+- Sleep Powder  
+
+コータス (Torkoal) (M) @ Sitrus Berry  
+Ability: Drought  
+Level: 50  
+EVs: 244 HP / 4 Def / 4 SpA / 252 SpD / 4 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Burning Jealousy  
+- Body Press  
+- Yawn  
+- Protect  
+
+ランドさま (Landorus-Therian) @ Assault Vest  
+Ability: Intimidate  
+EVs: 212 HP / 116 Atk / 68 Def / 44 SpD / 68 Spe  
+Adamant Nature  
+- Rock Slide  
+- Earthquake  
+- Fly  
+- U-turn  
+
+
+=== [gen8vgc2022] Kou's June Ladder 5th place team ===
+
+Eldegoss @ Coba Berry  
+Ability: Cotton Down  
+Level: 50  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Leaf Storm  
+- Helping Hand  
+- Sleep Powder  
+- Pollen Puff  
+
+Solgaleo @ Assault Vest  
+Ability: Full Metal Body  
+Level: 50  
+EVs: 212 HP / 252 Atk / 28 Def / 4 SpD / 12 Spe  
+Adamant Nature  
+- Sunsteel Strike  
+- Psychic Fangs  
+- Stone Edge  
+- Wild Charge  
+
+Ho-Oh @ Life Orb  
+Ability: Regenerator  
+Level: 50  
+EVs: 140 HP / 236 Atk / 68 Def / 4 SpD / 60 Spe  
+Adamant Nature  
+- Sacred Fire  
+- Brave Bird  
+- Protect  
+- Recover  
+
+Urshifu-Rapid-Strike-Gmax @ Choice Scarf  
+Ability: Unseen Fist  
+Level: 50  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Surging Strikes  
+- Close Combat  
+- Rock Tomb  
+- U-turn  
+
+Grimmsnarl (M) @ Lagging Tail  
+Ability: Prankster  
+Level: 50  
+EVs: 252 HP / 196 Def / 60 SpD  
+Careful Nature  
+IVs: 0 Atk  
+- Foul Play  
+- Reflect  
+- Light Screen  
+- Trick  
+
+Mamoswine @ Focus Sash  
+Ability: Oblivious  
+Level: 50  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Icicle Crash  
+- Earthquake  
+- Ice Shard  
+- Protect  
+
+
+=== [gen8vgc2022] kaoru389's JCS 2022 Top 4 team ===
+
+Eternatus @ Life Orb  
+Ability: Pressure  
+Level: 50  
+EVs: 28 HP / 244 SpA / 236 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Protect  
+- Dynamax Cannon  
+- Sludge Bomb  
+- Flamethrower  
+
+Dialga @ Expert Belt  
+Ability: Pressure  
+Level: 50  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Earth Power  
+- Roar of Time  
+- Thunder  
+- Steel Beam  
+
+Urshifu-Rapid-Strike-Gmax @ Focus Sash  
+Ability: Unseen Fist  
+Level: 50  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Surging Strikes  
+- Close Combat  
+- Aqua Jet  
+- Detect  
+
+Salamence @ White Herb  
+Ability: Intimidate  
+Level: 50  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Dual Wingbeat  
+- Fire Fang  
+- Dragon Claw  
+- Brick Break  
+
+Umbreon @ Safety Goggles  
+Ability: Inner Focus  
+Level: 50  
+Shiny: Yes  
+EVs: 252 HP / 156 Def / 100 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Moonlight  
+- Foul Play  
+- Taunt  
+- Snarl  
+
+Whimsicott @ Mental Herb  
+Ability: Prankster  
+Level: 50  
+EVs: 252 HP / 236 SpD / 20 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Dazzling Gleam  
+- Protect  
+- Tailwind  
+- Encore  
+
+
+=== [gen8vgc2022] AuraRayquaza's Top 8 Zacian Kyogre for NAIC ===
+
+Whimsicott (M) @ Focus Sash  
+Ability: Prankster  
+Level: 50  
+Shiny: Yes  
+EVs: 252 HP / 4 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Tailwind  
+- Energy Ball  
+- Cotton Spore  
+- Sunny Day  
+
+Zacian-Crowned @ Rusted Sword  
+Ability: Intrepid Sword  
+Level: 50  
+EVs: 204 HP / 172 Atk / 4 Def / 4 SpD / 124 Spe  
+Jolly Nature  
+- Behemoth Blade  
+- Play Rough  
+- Quick Attack  
+- Protect  
+
+Kyogre @ Mystic Water  
+Ability: Drizzle  
+Level: 50  
+EVs: 36 HP / 36 Def / 180 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Water Spout  
+- Origin Pulse  
+- Protect  
+- Ice Beam  
+
+Thundurus (M) @ Life Orb  
+Ability: Defiant  
+Level: 50  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Wild Charge  
+- Fly  
+- Foul Play  
+- Protect  
+
+Amoonguss (M) @ Coba Berry  
+Ability: Regenerator  
+Level: 50  
+Shiny: Yes  
+EVs: 252 HP / 100 Def / 156 SpD  
+Sassy Nature  
+IVs: 0 Atk / 0 Spe  
+- Spore  
+- Rage Powder  
+- Protect  
+- Pollen Puff  
+
+Charizard-Gmax (M) @ Lum Berry  
+Ability: Solar Power  
+Level: 50  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Blast Burn  
+- Hurricane  
+- Solar Beam  
+- Protect  
+
+
+=== [gen8vgc2022] 2022 Taiwan National Champion ===
+
+Lunala @ Power Herb  
+Ability: Shadow Shield  
+Level: 50  
+EVs: 148 HP / 4 Def / 212 SpA / 92 SpD / 52 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Protect  
+- Trick Room  
+- Meteor Beam  
+- Moongeist Beam  
+
+Groudon @ Sitrus Berry  
+Ability: Drought  
+Level: 50  
+EVs: 252 HP / 76 Atk / 12 Def / 140 SpD / 28 Spe  
+Adamant Nature  
+- Protect  
+- Swords Dance  
+- Stone Edge  
+- Precipice Blades  
+
+Charizard-Gmax @ Life Orb  
+Ability: Solar Power  
+Level: 50  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Protect  
+- Heat Wave  
+- Hurricane  
+- Blast Burn  
+
+Venusaur-Gmax @ Weakness Policy  
+Ability: Chlorophyll  
+Level: 50  
+EVs: 252 HP / 4 Def / 148 SpA / 4 SpD / 100 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Earth Power  
+- Frenzy Plant  
+- Sludge Bomb  
+- Sleep Powder  
+
+Grimmsnarl-Gmax @ Light Clay  
+Ability: Prankster  
+Level: 50  
+EVs: 244 HP / 4 Atk / 132 Def / 116 SpD / 12 Spe  
+Careful Nature  
+- Spirit Break  
+- Reflect  
+- Light Screen  
+- Scary Face  
+
+Incineroar @ Shuca Berry  
+Ability: Intimidate  
+Level: 50  
+EVs: 252 HP / 4 Atk / 84 Def / 132 SpD / 36 Spe  
+Careful Nature  
+- Fake Out  
+- Parting Shot  
+- Throat Chop  
+- Flare Blitz  
+
+
+=== [gen8vgc2022] Swordfish ===
+
+Zacian-Crowned @ Rusted Sword  
+Ability: Intrepid Sword  
+Level: 50  
+EVs: 252 HP / 124 Atk / 4 Def / 36 SpD / 92 Spe  
+Adamant Nature  
+- Behemoth Blade  
+- Quick Attack  
+- Play Rough  
+- Protect  
+
+Kyogre @ Assault Vest  
+Ability: Drizzle  
+Level: 50  
+EVs: 180 HP / 148 Def / 156 SpA / 4 SpD / 20 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Water Spout  
+- Origin Pulse  
+- Ice Beam  
+- Thunder  
+
+Grimmsnarl-Gmax (M) @ Light Clay  
+Ability: Prankster  
+Level: 50  
+EVs: 244 HP / 12 Atk / 124 Def / 116 SpD / 12 Spe  
+Careful Nature  
+- Spirit Break  
+- Reflect  
+- Light Screen  
+- Thunder Wave  
+
+Incineroar @ Sitrus Berry  
+Ability: Intimidate  
+Level: 50  
+EVs: 252 HP / 4 Atk / 84 Def / 132 SpD / 36 Spe  
+Careful Nature  
+- Fake Out  
+- Parting Shot  
+- Darkest Lariat  
+- Flare Blitz  
+
+Thundurus (M) @ Sharp Beak  
+Ability: Defiant  
+Level: 50  
+EVs: 196 HP / 116 Atk / 20 Def / 4 SpD / 172 Spe  
+Jolly Nature  
+- Wild Charge  
+- Brick Break  
+- Fly  
+- Protect  
+
+Kartana @ Life Orb  
+Ability: Beast Boost  
+Level: 50  
+EVs: 68 HP / 4 Atk / 244 SpD / 192 Spe  
+Jolly Nature  
+- Leaf Blade  
+- Sacred Sword  
+- Smart Strike  
+- Protect  
+
+
+=== [gen8vgc2022] Wolfey's LunalaDon ===
+
+Regieleki @ Assault Vest  
+Ability: Transistor  
+Level: 50  
+EVs: 12 HP / 140 Atk / 92 Def / 12 SpD / 252 Spe  
+Jolly Nature  
+- Bounce  
+- Wild Charge  
+- Assurance  
+- Electroweb  
+
+Gastrodon @ Leftovers  
+Ability: Storm Drain  
+Level: 50  
+EVs: 180 HP / 188 Def / 140 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Protect  
+- Earth Power  
+- Ice Beam  
+- Yawn  
+
+Lunala @ Power Herb  
+Ability: Shadow Shield  
+Level: 50  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Protect  
+- Trick Room  
+- Meteor Beam  
+- Moongeist Beam  
+
+Groudon @ White Herb  
+Ability: Drought  
+Level: 50  
+EVs: 156 HP / 156 Atk / 4 Def / 4 SpD / 188 Spe  
+Adamant Nature  
+- Precipice Blades  
+- Rock Tomb  
+- Protect  
+- Swords Dance  
+
+Charizard-Gmax @ Charti Berry  
+Ability: Solar Power  
+Level: 50  
+EVs: 244 HP / 76 Def / 188 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Protect  
+- Blast Burn  
+- Hurricane  
+- Heat Wave  
+
+Incineroar @ Shuca Berry  
+Ability: Intimidate  
+Level: 50  
+EVs: 252 HP / 4 Atk / 68 Def / 148 SpD / 36 Spe  
+Careful Nature  
+- Fake Out  
+- Flare Blitz  
+- Throat Chop  
+- Parting Shot  
+
+
+=== [gen8vgc2022] PJCS ===
+
+Zacian-Crowned @ Rusted Sword  
+Ability: Intrepid Sword  
+Level: 50  
+EVs: 188 HP / 156 Atk / 4 Def / 4 SpD / 156 Spe  
+Adamant Nature  
+- Behemoth Blade  
+- Sacred Sword  
+- Quick Attack  
+- Protect  
+
+Kyogre @ Assault Vest  
+Ability: Drizzle  
+Level: 50  
+EVs: 252 HP / 172 Def / 4 SpA / 4 SpD / 76 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Water Spout  
+- Thunder  
+- Icy Wind  
+- Origin Pulse  
+
+Thundurus (M) @ Life Orb  
+Ability: Defiant  
+Level: 50  
+EVs: 36 HP / 196 Atk / 20 Def / 4 SpD / 252 Spe  
+Jolly Nature  
+- Wild Charge  
+- Fly  
+- Brick Break  
+- Protect  
+
+Incineroar @ Shuca Berry  
+Ability: Intimidate  
+Level: 50  
+EVs: 252 HP / 4 Atk / 156 Def / 84 SpD / 12 Spe  
+Impish Nature  
+- Flare Blitz  
+- Taunt  
+- Fake Out  
+- Parting Shot  
+
+Grimmsnarl-Gmax (M) @ Babiri Berry  
+Ability: Prankster  
+Level: 50  
+EVs: 252 HP / 4 Atk / 20 Def / 220 SpD / 12 Spe  
+Careful Nature  
+- Spirit Break  
+- Light Screen  
+- Reflect  
+- Scary Face  
+
+Amoonguss @ Focus Sash  
+Ability: Regenerator  
+Level: 50  
+EVs: 252 HP / 4 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk / 26 Spe  
+- Spore  
+- Rage Powder  
+- Pollen Puff  
+- Protect  
+
+
+=== [gen8vgc2022] Milwaukee 2nd place team ===
+
+Calyrex-Shadow @ Choice Specs  
+Ability: As One (Spectrier)  
+Level: 50  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Astral Barrage  
+- Leaf Storm  
+- Expanding Force  
+- Trick Room  
+
+Kyogre @ Life Orb  
+Ability: Drizzle  
+Level: 50  
+EVs: 20 HP / 4 Def / 228 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Water Spout  
+- Origin Pulse  
+- Ice Beam  
+- Protect  
+
+Regieleki @ Assault Vest  
+Ability: Transistor  
+EVs: 28 HP / 252 Atk / 20 Def / 124 SpD / 84 Spe  
+Jolly Nature  
+- Wild Charge  
+- Bounce  
+- Assurance  
+- Electroweb  
+
+Charizard-Gmax @ Lum Berry  
+Ability: Solar Power  
+Level: 50  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Heat Wave  
+- Hurricane  
+- Solar Beam  
+- Protect  
+
+Whimsicott @ Focus Sash  
+Ability: Prankster  
+Shiny: Yes  
+EVs: 252 HP / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Energy Ball  
+- Sunny Day  
+- Tailwind  
+- Cotton Spore  
+
+Clefairy @ Eviolite  
+Ability: Friend Guard  
+Level: 50  
+EVs: 236 HP / 140 Def / 132 SpD  
+Sassy Nature  
+IVs: 0 Atk / 0 Spe  
+- Follow Me  
+- Helping Hand  
+- After You  
+- Protect  
+
+
+=== [gen8vgc2022] HupuMetapod's Champion Yveltal Groudon for Milwaukee Regionals ===
+
+Yveltal @ Black Glasses  
+Ability: Dark Aura  
+Level: 50  
+EVs: 12 HP / 44 Def / 196 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Oblivion Wing  
+- Foul Play  
+- Protect  
+- Snarl  
+
+Groudon @ Sitrus Berry  
+Ability: Drought  
+Level: 50  
+EVs: 252 HP / 76 Atk / 12 Def / 108 SpD / 60 Spe  
+Adamant Nature  
+- Protect  
+- Precipice Blades  
+- Stone Edge  
+- Bulk Up  
+
+Venusaur-Gmax (M) @ Life Orb  
+Ability: Chlorophyll  
+Level: 50  
+EVs: 28 HP / 44 Def / 180 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sleep Powder  
+- Frenzy Plant  
+- Protect  
+- Weather Ball  
+
+Regieleki @ Focus Sash  
+Ability: Transistor  
+Level: 50  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Hyper Beam  
+- Electroweb  
+- Protect  
+
+Incineroar (F) @ Safety Goggles  
+Ability: Intimidate  
+Level: 50  
+EVs: 244 HP / 4 Atk / 132 Def / 76 SpD / 52 Spe  
+Impish Nature  
+- Flare Blitz  
+- Fake Out  
+- Parting Shot  
+- Throat Chop  
+
+Bronzong @ Leftovers  
+Ability: Levitate  
+Level: 50  
+Shiny: Yes  
+EVs: 244 HP / 188 Def / 76 SpD  
+Relaxed Nature  
+IVs: 0 Atk / 14 Spe  
+- Iron Defense  
+- Body Press  
+- Protect  
+- Trick Room  
+
+
+=== [gen8vgc2022] 2022 North America Internationals Top 16 ===
+
+Zacian-Crowned @ Rusted Sword  
+Ability: Intrepid Sword  
+Level: 50  
+Shiny: Yes  
+EVs: 124 HP / 164 Atk / 4 Def / 4 SpD / 212 Spe  
+Adamant Nature  
+- Behemoth Blade  
+- Play Rough  
+- Sacred Sword  
+- Protect  
+
+Kyogre @ Mystic Water  
+Ability: Drizzle  
+Level: 50  
+EVs: 76 HP / 20 Def / 156 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Water Spout  
+- Origin Pulse  
+- Ice Beam  
+- Protect  
+
+Tornadus @ Focus Sash  
+Ability: Prankster  
+Level: 50  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hurricane  
+- Icy Wind  
+- Tailwind  
+- Protect  
+
+Landorus-Therian @ Life Orb  
+Ability: Intimidate  
+Level: 50  
+EVs: 36 HP / 212 Atk / 4 Def / 4 SpD / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Fly  
+- Rock Slide  
+- Swords Dance  
+
+Kartana @ White Herb  
+Ability: Beast Boost  
+Level: 50  
+EVs: 36 HP / 4 Atk / 4 Def / 212 SpD / 252 Spe  
+Jolly Nature  
+- Leaf Blade  
+- Smart Strike  
+- Aerial Ace  
+- Sacred Sword  
+
+Amoonguss @ Coba Berry  
+Ability: Regenerator  
+Level: 50  
+EVs: 236 HP / 116 Def / 156 SpD  
+Calm Nature  
+IVs: 0 Atk / 27 Spe  
+- Spore  
+- Rage Powder  
+- Giga Drain  
+- Protect  
+
+
+=== [gen8vgc2022] Yuki's 15th place Shedinja Team ===
+
+Kyogre @ Choice Scarf  
+Ability: Drizzle  
+Level: 50  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Water Spout  
+- Origin Pulse  
+- Thunder  
+- Ice Beam  
+
+Kingdra @ Life Orb  
+Ability: Swift Swim  
+Level: 50  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Waterfall  
+- Outrage  
+- Bounce  
+- Icy Wind  
+
+Shedinja @ Focus Sash  
+Ability: Wonder Guard  
+Level: 50  
+EVs: 252 Atk / 252 Spe  
+Lonely Nature  
+IVs: 0 Def / 0 SpD  
+- Poltergeist  
+- Shadow Sneak  
+- Ally Switch  
+- Endure  
+
+Zacian-Crowned @ Rusted Sword  
+Ability: Intrepid Sword  
+Level: 50  
+EVs: 172 HP / 204 Atk / 12 Def / 4 SpD / 116 Spe  
+Jolly Nature  
+- Behemoth Blade  
+- Play Rough  
+- Sacred Sword  
+- Protect  
+
+Indeedee-F (F) @ Psychic Seed  
+Ability: Psychic Surge  
+Level: 50  
+EVs: 252 HP / 252 Def / 4 SpD  
+Relaxed Nature  
+IVs: 0 Atk / 0 Spe  
+- Follow Me  
+- Helping Hand  
+- Energy Ball  
+- Protect  
+
+Landorus-Therian (M) @ White Herb  
+Ability: Intimidate  
+Level: 50  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Fly  
+- Rock Slide  
+- Swords Dance  
+
+
+=== [gen8vgc2022] Calyrex + Zacian HO ===
+
+Whimsicott @ Coba Berry  
+Ability: Prankster  
+Level: 50  
+EVs: 252 HP / 4 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Tailwind  
+- Energy Ball  
+- Helping Hand  
+- Taunt  
+
+Calyrex-Shadow @ Life Orb  
+Ability: As One (Spectrier)  
+Level: 50  
+EVs: 252 SpA / 252 Spe  
+Hasty Nature  
+IVs: 0 Atk  
+- Astral Barrage  
+- Leaf Storm  
+- Expanding Force  
+- Protect  
+
+Thundurus (M) @ Weakness Policy  
+Ability: Defiant  
+Level: 50  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Wild Charge  
+- Fly  
+- Iron Tail  
+- Protect  
+
+Incineroar @ Shuca Berry  
+Ability: Intimidate  
+Level: 50  
+EVs: 236 HP / 4 Atk / 84 Def / 140 SpD / 44 Spe  
+Careful Nature  
+- Flare Blitz  
+- Fake Out  
+- Throat Chop  
+- Parting Shot  
+
+Zacian-Crowned @ Rusted Sword  
+Ability: Intrepid Sword  
+Level: 50  
+EVs: 180 HP / 188 Atk / 12 Def / 4 SpD / 124 Spe  
+Jolly Nature  
+- Behemoth Blade  
+- Play Rough  
+- Sacred Sword  
+- Protect  
+
+Mamoswine @ Focus Sash  
+Ability: Oblivious  
+Level: 50  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Icicle Crash  
+- High Horsepower  
+- Ice Shard  
+- Protect  
+
+
+=== [gen8battlestadiumdoublesseries13] Untitled 271 ===
+
+Kyogre @ Mystic Water  
+Ability: Drizzle  
+Level: 50  
+EVs: 100 HP / 156 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Protect  
+- Water Spout  
+- Ice Beam  
+- Origin Pulse  
+
+Magearna @ Shuca Berry  
+Ability: Soul-Heart  
+Level: 50  
+EVs: 252 HP / 44 SpA / 212 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Protect  
+- Dazzling Gleam  
+- Flash Cannon  
+- Helping Hand  
+
+Yveltal @ Life Orb  
+Ability: Dark Aura  
+Level: 50  
+EVs: 12 HP / 44 Def / 196 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Protect  
+- Oblivion Wing  
+- Dark Pulse  
+- Heat Wave  
+
+Indeedee-F (F) @ Psychic Seed  
+Ability: Psychic Surge  
+Level: 50  
+EVs: 252 HP / 140 Def / 116 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Protect  
+- Follow Me  
+- Helping Hand  
+- Expanding Force  
+
+Whimsicott @ Focus Sash  
+Ability: Prankster  
+Level: 50  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Protect  
+- Tailwind  
+- Helping Hand  
+- Endeavor  
+
+Calyrex-Shadow @ Choice Specs  
+Ability: As One (Spectrier)  
+Level: 50  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Astral Barrage  
+- Expanding Force  
+- Leaf Storm  
+- Trick  
+
+
+=== [gen8battlestadiumdoublesseries13] Untitled 231 ===
+
+Melmetal @ Life Orb  
+Ability: Iron Fist  
+Level: 50  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Brave Nature  
+IVs: 0 Spe  
+- Double Iron Bash  
+- High Horsepower  
+- Thunder Punch  
+- Protect  
+
+Calyrex-Shadow @ Focus Sash  
+Ability: As One (Spectrier)  
+Level: 50  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Astral Barrage  
+- Will-O-Wisp  
+- Speed Swap  
+- Trick Room  
+
+Yveltal @ Safety Goggles  
+Ability: Dark Aura  
+Level: 50  
+EVs: 172 HP / 4 Def / 68 SpA / 12 SpD / 252 Spe  
+Modest Nature  
+- Foul Play  
+- Snarl  
+- Sucker Punch  
+- Oblivion Wing  
+
+Kyogre @ Choice Scarf  
+Ability: Drizzle  
+Level: 50  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Water Spout  
+- Origin Pulse  
+- Ice Beam  
+- Thunder  
+
+Zacian-Crowned @ Rusted Sword  
+Ability: Intrepid Sword  
+Level: 50  
+EVs: 180 HP / 188 Atk / 12 Def / 4 SpD / 124 Spe  
+Jolly Nature  
+- Behemoth Blade  
+- Quick Attack  
+- Sacred Sword  
+- Protect  
+
+Whimsicott @ Coba Berry  
+Ability: Prankster  
+Level: 50  
+EVs: 252 HP / 116 Def / 140 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Energy Ball  
+- Tailwind  
+- Light Screen  
+- Charm  
+
+
+=== [gen8vgc2022] 2022 Taiwan National Champion ===
+
+Lunala @ Power Herb  
+Ability: Shadow Shield  
+Level: 50  
+EVs: 148 HP / 4 Def / 212 SpA / 92 SpD / 52 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Protect  
+- Trick Room  
+- Meteor Beam  
+- Moongeist Beam  
+
+Groudon @ Sitrus Berry  
+Ability: Drought  
+Level: 50  
+EVs: 252 HP / 76 Atk / 12 Def / 140 SpD / 28 Spe  
+Adamant Nature  
+- Protect  
+- Swords Dance  
+- Stone Edge  
+- Precipice Blades  
+
+Charizard-Gmax @ Life Orb  
+Ability: Solar Power  
+Level: 50  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Protect  
+- Heat Wave  
+- Hurricane  
+- Blast Burn  
+
+Venusaur-Gmax @ Weakness Policy  
+Ability: Chlorophyll  
+Level: 50  
+EVs: 252 HP / 4 Def / 148 SpA / 4 SpD / 100 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Earth Power  
+- Frenzy Plant  
+- Sludge Bomb  
+- Sleep Powder  
+
+Grimmsnarl-Gmax @ Light Clay  
+Ability: Prankster  
+Level: 50  
+EVs: 244 HP / 4 Atk / 132 Def / 116 SpD / 12 Spe  
+Careful Nature  
+- Spirit Break  
+- Reflect  
+- Light Screen  
+- Scary Face  
+
+Incineroar @ Shuca Berry  
+Ability: Intimidate  
+Level: 50  
+EVs: 252 HP / 4 Atk / 84 Def / 132 SpD / 36 Spe  
+Careful Nature  
+- Fake Out  
+- Parting Shot  
+- Throat Chop  
+- Flare Blitz  
+
+
+=== [gen8vgc2022] Another Rinya Sun Variant ===
+
+Zacian-Crowned @ Rusted Sword  
+Ability: Intrepid Sword  
+Level: 50  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Behemoth Blade  
+- Play Rough  
+- Sacred Sword  
+- Protect  
+
+Groudon @ Assault Vest  
+Ability: Drought  
+Level: 50  
+EVs: 164 HP / 228 Atk / 4 Def / 100 SpD / 12 Spe  
+Adamant Nature  
+- Precipice Blades  
+- Fire Punch  
+- Stone Edge  
+- Heavy Slam  
+
+Incineroar @ Shuca Berry  
+Ability: Intimidate  
+Level: 50  
+EVs: 252 HP / 4 Atk / 84 Def / 156 SpD / 12 Spe  
+Careful Nature  
+- Fake Out  
+- Throat Chop  
+- Flare Blitz  
+- Parting Shot  
+
+Charizard-Gmax @ Life Orb  
+Ability: Solar Power  
+Level: 50  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Blast Burn  
+- Heat Wave  
+- Hurricane  
+- Protect  
+
+Gastrodon @ Leftovers  
+Ability: Storm Drain  
+Level: 50  
+EVs: 180 HP / 204 Def / 124 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Earth Power  
+- Ice Beam  
+- Protect  
+- Yawn  
+
+Grimmsnarl (M) @ Light Clay  
+Ability: Prankster  
+Level: 50  
+EVs: 252 HP / 4 Atk / 116 Def / 124 SpD / 12 Spe  
+Impish Nature  
+- Spirit Break  
+- Light Screen  
+- Reflect  
+- Scary Face  
+
+
+=== [gen8vgc2022] SLC Rinya Variant ===
+
+Groudon @ Assault Vest  
+Ability: Drought  
+Level: 50  
+EVs: 252 HP / 156 Atk / 4 Def / 60 SpD / 36 Spe  
+Adamant Nature  
+- Fire Punch  
+- Precipice Blades  
+- Heavy Slam  
+- Stone Edge  
+
+Zacian-Crowned @ Rusted Sword  
+Ability: Intrepid Sword  
+Level: 50  
+EVs: 188 HP / 188 Atk / 4 Def / 12 SpD / 116 Spe  
+Jolly Nature  
+- Behemoth Blade  
+- Sacred Sword  
+- Play Rough  
+- Protect  
+
+Charizard-Gmax @ Charti Berry  
+Ability: Solar Power  
+Level: 50  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Blast Burn  
+- Ancient Power  
+- Hurricane  
+- Protect  
+
+Grimmsnarl (M) @ Light Clay  
+Ability: Prankster  
+Level: 50  
+EVs: 244 HP / 4 Atk / 124 Def / 116 SpD / 20 Spe  
+Careful Nature  
+- Spirit Break  
+- Light Screen  
+- Thunder Wave  
+- Reflect  
+
+Incineroar @ Shuca Berry  
+Ability: Intimidate  
+Level: 50  
+EVs: 252 HP / 4 Atk / 68 Def / 172 SpD / 12 Spe  
+Careful Nature  
+- Flare Blitz  
+- Parting Shot  
+- Darkest Lariat  
+- Fake Out  
+
+Gastrodon @ Leftovers  
+Ability: Storm Drain  
+Level: 50  
+EVs: 180 HP / 204 Def / 124 SpD  
+Bold Nature  
+IVs: 0 Atk / 8 Spe  
+- Ice Beam  
+- Earth Power  
+- Yawn  
+- Protect  
+
+
+=== [gen8vgc2022] Rinya Sun ===
+
+Zacian-Crowned @ Rusted Sword  
+Ability: Intrepid Sword  
+Level: 50  
+EVs: 44 HP / 180 Atk / 28 Def / 4 SpD / 252 Spe  
+Jolly Nature  
+- Behemoth Blade  
+- Sacred Sword  
+- Play Rough  
+- Protect  
+
+Groudon @ Assault Vest  
+Ability: Drought  
+Level: 50  
+EVs: 196 HP / 180 Atk / 4 Def / 92 SpD / 36 Spe  
+Adamant Nature  
+- Precipice Blades  
+- Rock Tomb  
+- Fire Punch  
+- Heavy Slam  
+
+Charizard-Gmax @ Lum Berry  
+Ability: Solar Power  
+Level: 50  
+EVs: 36 HP / 4 Def / 212 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Blast Burn  
+- Hurricane  
+- Heat Wave  
+- Protect  
+
+Grimmsnarl (M) @ Iron Ball  
+Ability: Prankster  
+Level: 50  
+EVs: 164 HP / 188 Def / 156 SpD  
+Impish Nature  
+IVs: 0 Atk  
+- Foul Play  
+- Trick  
+- Thunder Wave  
+- Reflect  
+
+Incineroar @ Shuca Berry  
+Ability: Intimidate  
+Level: 50  
+EVs: 252 HP / 4 Atk / 100 Def / 124 SpD / 28 Spe  
+Impish Nature  
+- Flare Blitz  
+- Darkest Lariat  
+- Parting Shot  
+- Fake Out  
+
+Gastrodon (Gastrodon-East) @ Leftovers  
+Ability: Storm Drain  
+Level: 50  
+EVs: 180 HP / 204 Def / 124 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Earth Power  
+- Ice Beam  
+- Yawn  
+- Protect  
+
+
+=== [gen8vgc2022] Indianapolis Shadow Rider + Sun ===
+
+Calyrex-Shadow @ Focus Sash  
+Ability: As One (Spectrier)  
+Level: 50  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Astral Barrage  
+- Will-O-Wisp  
+- Psyshock  
+- Protect  
+
+Groudon @ Sitrus Berry  
+Ability: Drought  
+Level: 50  
+EVs: 244 HP / 28 Atk / 4 Def / 132 SpD / 100 Spe  
+Adamant Nature  
+- Precipice Blades  
+- Rock Slide  
+- Swords Dance  
+- Protect  
+
+Venusaur-Gmax @ Weakness Policy  
+Ability: Chlorophyll  
+Level: 50  
+EVs: 132 HP / 44 Def / 76 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Leaf Storm  
+- Weather Ball  
+- Earth Power  
+- Sleep Powder  
+
+Charizard-Gmax @ Assault Vest  
+Ability: Solar Power  
+Level: 50  
+EVs: 44 HP / 52 Def / 156 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Heat Wave  
+- Air Slash  
+- Ancient Power  
+- Scorching Sands  
+
+Grimmsnarl (M) @ Light Clay  
+Ability: Prankster  
+Level: 50  
+EVs: 252 HP / 4 Atk / 60 Def / 156 SpD / 36 Spe  
+Careful Nature  
+- Spirit Break  
+- Light Screen  
+- Reflect  
+- Scary Face  
+
+Incineroar @ Safety Goggles  
+Ability: Intimidate  
+Level: 50  
+EVs: 244 HP / 4 Atk / 164 Def / 60 SpD / 36 Spe  
+Impish Nature  
+- Flare Blitz  
+- Taunt  
+- Fake Out  
+- Parting Shot  
+
+
+=== [gen8vgc2022] Vancouver Regionals 2nd Place Team ===
+
+Tapu Fini @ Choice Specs  
+Ability: Misty Surge  
+Level: 50  
+EVs: 220 HP / 44 Def / 172 SpA / 4 SpD / 68 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Scald  
+- Dazzling Gleam  
+- Trick  
+
+Calyrex-Shadow @ Focus Sash  
+Ability: As One (Spectrier)  
+Level: 50  
+EVs: 36 HP / 4 Def / 212 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Astral Barrage  
+- Pollen Puff  
+- Bulldoze  
+- Protect  
+
+Rotom-Heat @ Assault Vest  
+Ability: Levitate  
+Level: 50  
+EVs: 252 HP / 28 Def / 132 SpA / 28 SpD / 68 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Overheat  
+- Thunderbolt  
+- Volt Switch  
+- Dark Pulse  
+
+Nihilego @ Power Herb  
+Ability: Beast Boost  
+Level: 50  
+EVs: 36 HP / 28 Def / 164 SpA / 36 SpD / 244 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Meteor Beam  
+- Power Gem  
+- Grass Knot  
+- Protect  
+
+Solgaleo @ Weakness Policy  
+Ability: Full Metal Body  
+Level: 50  
+EVs: 4 HP / 188 Atk / 4 Def / 60 SpD / 252 Spe  
+Adamant Nature  
+- Sunsteel Strike  
+- Psychic Fangs  
+- Earthquake  
+- Protect  
+
+Grimmsnarl (M) @ Light Clay  
+Ability: Prankster  
+Level: 50  
+EVs: 244 HP / 68 Def / 196 SpD  
+Careful Nature  
+- Sucker Punch  
+- Spirit Break  
+- Reflect  
+- Light Screen  
+
+
+=== [gen8vgc2022] Zekrom Sun ===
+
+Zekrom @ Weakness Policy  
+Ability: Teravolt  
+Level: 50  
+EVs: 156 HP / 92 Def / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Rising Voltage  
+- Earth Power  
+- Draco Meteor  
+- Protect  
+
+Charizard-Gmax @ Life Orb  
+Ability: Solar Power  
+Level: 50  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Heat Wave  
+- Solar Beam  
+- Hurricane  
+- Protect  
+
+Comfey @ Sitrus Berry  
+Ability: Triage  
+Level: 50  
+EVs: 204 HP / 172 Def / 132 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Draining Kiss  
+- Ally Switch  
+- Trick Room  
+- Floral Healing  
+
+Groudon @ Assault Vest  
+Ability: Drought  
+Level: 50  
+EVs: 148 HP / 252 Atk / 68 Def / 4 SpD / 36 Spe  
+Adamant Nature  
+- Heat Crash  
+- Thunder Punch  
+- Precipice Blades  
+- Rock Slide  
+
+Venusaur-Gmax @ Coba Berry  
+Ability: Chlorophyll  
+Level: 50  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sleep Powder  
+- Giga Drain  
+- Earth Power  
+- Weather Ball  
+
+Grimmsnarl (M) @ Light Clay  
+Ability: Prankster  
+Level: 50  
+EVs: 164 HP / 164 Def / 180 SpD  
+Impish Nature  
+IVs: 0 Atk  
+- Foul Play  
+- Scary Face  
+- Reflect  
+- Light Screen  
+
+
+=== [gen8vgc2022] S12 Zekrom ===
+
+Zekrom @ Weakness Policy  
+Ability: Teravolt  
+Level: 50  
+EVs: 156 HP / 4 Def / 252 SpA / 76 SpD / 20 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Rising Voltage  
+- Draco Meteor  
+- Earth Power  
+- Protect  
+
+Incineroar @ Focus Sash  
+Ability: Intimidate  
+Level: 50  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Fake Out  
+- Parting Shot  
+- Flare Blitz  
+- Darkest Lariat  
+
+Comfey @ Babiri Berry  
+Ability: Triage  
+Level: 50  
+EVs: 252 HP / 220 Def / 4 SpA / 4 SpD / 28 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Floral Healing  
+- Protect  
+- Trick Room  
+- Draining Kiss  
+
+Kyogre @ Choice Specs  
+Ability: Drizzle  
+Level: 50  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Water Spout  
+- Origin Pulse  
+- Ice Beam  
+- Thunder  
+
+Regieleki @ Life Orb  
+Ability: Transistor  
+Level: 50  
+EVs: 4 HP / 252 Atk / 140 Def / 36 SpD / 76 Spe  
+Jolly Nature  
+- Wild Charge  
+- Bounce  
+- Giga Impact  
+- Protect  
+
+Grimmsnarl-Gmax (M) @ Light Clay  
+Ability: Prankster  
+Level: 50  
+EVs: 252 HP / 156 Def / 100 SpD  
+Careful Nature  
+- Light Screen  
+- Reflect  
+- Scary Face  
+- Spirit Break  
+
+
+=== [gen8vgc2022] 2022 Vancouver Regionals Top 8 ===
+
+Zacian-Crowned @ Rusted Sword  
+Ability: Intrepid Sword  
+Level: 50  
+Shiny: Yes  
+EVs: 28 HP / 252 Atk / 4 Def / 4 SpD / 220 Spe  
+Adamant Nature  
+- Play Rough  
+- Sacred Sword  
+- Behemoth Blade  
+- Protect  
+
+Kyogre @ Life Orb  
+Ability: Drizzle  
+Level: 50  
+EVs: 108 HP / 68 Def / 236 SpA / 4 SpD / 92 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Water Spout  
+- Ice Beam  
+- Thunder  
+- Protect  
+
+Grimmsnarl (M) @ Light Clay  
+Ability: Prankster  
+Level: 50  
+EVs: 220 HP / 4 Atk / 116 Def / 156 SpD / 12 Spe  
+Careful Nature  
+- Spirit Break  
+- Light Screen  
+- Reflect  
+- Thunder Wave  
+
+Incineroar (M) @ Safety Goggles  
+Ability: Intimidate  
+Level: 50  
+Shiny: Yes  
+EVs: 244 HP / 4 Atk / 124 Def / 108 SpD / 28 Spe  
+Impish Nature  
+- Flare Blitz  
+- Darkest Lariat  
+- Parting Shot  
+- Fake Out  
+
+Rillaboom-Gmax (M) @ Assault Vest  
+Ability: Grassy Surge  
+Shiny: Yes  
+EVs: 252 HP / 196 Atk / 60 SpD  
+Adamant Nature  
+- Grassy Glide  
+- U-turn  
+- High Horsepower  
+- Fake Out  
+
+Amoonguss @ Focus Sash  
+Ability: Regenerator  
+Level: 56  
+EVs: 236 HP / 20 Def / 252 SpD  
+Sassy Nature  
+IVs: 0 Atk / 0 Spe  
+- Spore  
+- Rage Powder  
+- Foul Play  
+- Protect  
+
+
+=== [gen8ou] Bioluminescence ===
+
+Lanturn @ Leftovers  
+Ability: Volt Absorb  
+EVs: 248 HP / 20 Def / 240 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Thunder Wave  
+- Volt Switch  
+- Heal Bell  
+- Scald  
+
+Tapu Bulu @ Leftovers  
+Ability: Grassy Surge  
+EVs: 248 HP / 228 Atk / 32 SpD  
+Adamant Nature  
+- Swords Dance  
+- Close Combat  
+- Horn Leech  
+- Toxic  
+
+Heatran @ Leftovers  
+Ability: Flame Body  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Lava Plume  
+- Protect  
+- Toxic  
+
+Clefable @ Leftovers  
+Ability: Magic Guard  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Wish  
+- Protect  
+- Moonblast  
+- Teleport  
+
+Tornadus-Therian (M) @ Heavy-Duty Boots  
+Ability: Regenerator  
+EVs: 248 HP / 92 Def / 168 Spe  
+Timid Nature  
+- Taunt  
+- Defog  
+- Hurricane  
+- U-turn  
+
+Kartana @ Choice Band  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Knock Off  
+- Smart Strike  
+- Leaf Blade  
+- Sacred Sword  
+
+
+=== [gen8ou] Sand Witch ===
+
+Toxapex @ Shed Shell  
+Ability: Regenerator  
+EVs: 252 HP / 240 Def / 16 SpD  
+Impish Nature  
+- Toxic  
+- Haze  
+- Recover  
+- Knock Off  
+
+Dracozolt @ Leftovers  
+Ability: Sand Rush  
+EVs: 120 Atk / 136 SpA / 252 Spe  
+Lonely Nature  
+- Bolt Beak  
+- Earthquake  
+- Fire Blast  
+- Draco Meteor  
+
+Hatterene (F) @ Choice Specs  
+Ability: Magic Bounce  
+EVs: 104 HP / 252 SpA / 152 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Giga Drain  
+- Psyshock  
+- Mystical Fire  
+- Dazzling Gleam  
+
+Buzzwole @ Heavy-Duty Boots  
+Ability: Beast Boost  
+EVs: 252 HP / 252 Def / 4 Spe  
+Impish Nature  
+- Close Combat  
+- Ice Punch  
+- Roost  
+- Earthquake  
+
+Hippowdon @ Leftovers  
+Ability: Sand Stream  
+EVs: 252 HP / 8 Atk / 248 SpD  
+Careful Nature  
+- Earthquake  
+- Slack Off  
+- Stealth Rock  
+- Toxic  
+
+Corviknight @ Leftovers  
+Ability: Mirror Armor  
+EVs: 252 HP / 4 Def / 252 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Brave Bird  
+- U-turn  
+- Defog  
+- Roost  
+
+
+=== [gen8ou] "Floral Fury" Band Bulu + Offensive Zapdos Grass Spam ===
+
+Kartana @ Choice Scarf  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Leaf Blade  
+- Knock Off  
+- Sacred Sword  
+- Smart Strike  
+
+Zapdos @ Heavy-Duty Boots  
+Ability: Static  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Hurricane  
+- Heat Wave  
+- Roost  
+
+Slowbro @ Colbur Berry  
+Ability: Regenerator  
+EVs: 252 HP / 200 Def / 56 SpD  
+Relaxed Nature  
+IVs: 0 Atk / 0 Spe  
+- Future Sight  
+- Body Press  
+- Slack Off  
+- Teleport  
+
+Tapu Bulu @ Choice Band  
+Ability: Grassy Surge  
+Shiny: Yes  
+EVs: 32 HP / 252 Atk / 224 Spe  
+Adamant Nature  
+- Horn Leech  
+- Close Combat  
+- Stone Edge  
+- Zen Headbutt  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 252 HP / 4 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Magma Storm  
+- Earth Power  
+- Stealth Rock  
+- Protect  
+
+Landorus-Therian (M) @ Leftovers  
+Ability: Intimidate  
+EVs: 252 HP / 56 Def / 184 SpD / 16 Spe  
+Careful Nature  
+- Earthquake  
+- U-turn  
+- Toxic  
+- Defog  
+
+
+=== [gen8vgc2022] HupuMetapod's Champion Yveltal Groudon for Milwaukee Regionals ===
+
+Yveltal @ Black Glasses  
+Ability: Dark Aura  
+Level: 50  
+EVs: 12 HP / 44 Def / 196 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Oblivion Wing  
+- Foul Play  
+- Protect  
+- Snarl  
+
+Groudon @ Sitrus Berry  
+Ability: Drought  
+Level: 50  
+EVs: 252 HP / 76 Atk / 12 Def / 108 SpD / 60 Spe  
+Adamant Nature  
+- Protect  
+- Precipice Blades  
+- Stone Edge  
+- Bulk Up  
+
+Venusaur-Gmax (M) @ Life Orb  
+Ability: Chlorophyll  
+Level: 50  
+EVs: 28 HP / 44 Def / 180 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sleep Powder  
+- Frenzy Plant  
+- Protect  
+- Weather Ball  
+
+Regieleki @ Focus Sash  
+Ability: Transistor  
+Level: 50  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Hyper Beam  
+- Electroweb  
+- Protect  
+
+Incineroar (F) @ Safety Goggles  
+Ability: Intimidate  
+Level: 50  
+EVs: 244 HP / 4 Atk / 132 Def / 76 SpD / 52 Spe  
+Impish Nature  
+- Flare Blitz  
+- Fake Out  
+- Parting Shot  
+- Throat Chop  
+
+Bronzong @ Leftovers  
+Ability: Levitate  
+Level: 50  
+EVs: 244 HP / 188 Def / 76 SpD  
+Relaxed Nature  
+IVs: 0 Atk / 14 Spe  
+- Iron Defense  
+- Body Press  
+- Protect  
+- Trick Room  
+
+
+
 === [gen8ou] War on Stall V2 ===
 
 Buzzwole @ Choice Scarf  
